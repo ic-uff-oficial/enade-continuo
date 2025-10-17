@@ -1,6 +1,6 @@
 # enade-continuo
 
-Importante: a UFF nem o MEC endossam esse website!
+Importante: nem o IC/UFF nem o MEC endossam esse website! Ele pode conter erros ou dados desatualizados!
 
 Ele serve apenas como FERRAMENTA DE APOIO para uma busca mais ágil em cima das planilhas do ENADE.
 
