@@ -51,7 +51,10 @@
     </div>
   </div>
 
+  <p><b>Resultados do ENADE Contínuo do Curso</b></p>
   <div id="results"></div>
+  <p><b>Resultados do IGC Contínuo da Universidade</b></p>
+  <div id="resultsIGC"></div>
 
 
 <p>Veja link oficial da avaliação enade por curso: <a href="https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enade/resultados">https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enade/resultados</a></p>
@@ -66,6 +69,7 @@
 
 <script>
   let dados = [];
+  let dadosIGC = [];
 
   // ---- Carregar CSV ----
   function carregarCSV(arquivo) {
@@ -86,7 +90,12 @@
     const d2022 = await carregarCSV("conceito_enade_2022.csv");
     const d2023 = await carregarCSV("conceito_enade_2023.csv");
     dados = d2019.concat(d2021).concat(d2022).concat(d2023);
-    console.log(`Carregados ${dados.length} registros.`);
+    console.log(`Carregados ${dados.length} registros do ENADE.`);
+    const igc2021 = await carregarCSV("IGC_2021.csv");
+    const igc2022 = await carregarCSV("IGC_2022.csv");
+    const igc2023 = await carregarCSV("IGC_2023.csv");
+    dadosIGC = igc2021.concat(igc2022).concat(igc2023);
+    console.log(`Carregados ${dadosIGC.length} registros do IGC.`); 
   }
 
   // ---- Filtro ----
@@ -94,7 +103,7 @@
     const univ = document.getElementById('universidade').value.toLowerCase();
     const curso = document.getElementById('curso').value.toLowerCase();
 
-    const filtrado = dados.filter(l => 
+    const filtradoENADE = dados.filter(l => 
     (!univ || (
       (l["Nome da IES*"] && l["Nome da IES*"].toLowerCase().includes(univ)) ||
       (l["Sigla da IES*"] && l["Sigla da IES*"].toLowerCase().includes(univ)) ||
@@ -103,8 +112,17 @@
     )) &&
       (!curso || (l["Área de Avaliação"] && l["Área de Avaliação"].toLowerCase().includes(curso)))
     ).slice(0, 30);
+    
+    const filtradoIGC = dadosIGC.filter(l => 
+    (!univ || (
+      (l["Nome da IES*"] && l["Nome da IES*"].toLowerCase().includes(univ)) ||
+      (l["Sigla da IES*"] && l["Sigla da IES*"].toLowerCase().includes(univ)) ||
+      (l["Nome da IES"] && l["Nome da IES"].toLowerCase().includes(univ)) ||
+      (l["Sigla da IES"] && l["Sigla da IES"].toLowerCase().includes(univ))
+    ))
+    ).slice(0, 30);
 
-    mostrarResultados(filtrado);
+    mostrarResultados(filtradoENADE, filtradoIGC);
   }
 
   // ---- Debounce (espera o usuário parar de digitar) ----
@@ -119,11 +137,18 @@
   const filtrarComEspera = debounce(filtrar, 1000); // 500ms = meio segundo
 
   // ---- Mostrar resultados ----
-  function mostrarResultados(lista) {
+  function mostrarResultados(lista, listaIGC) {
     const div = document.getElementById('results');
-    if (lista.length === 0) {
-      div.innerHTML = `<div class="alert alert-warning mt-3">Nenhum resultado encontrado.</div>`;
-      return;
+    const divIGC = document.getElementById('resultsIGC');
+    if((lista.length == 0) || (listaIGC.length === 0)) {
+	    if (lista.length === 0) {
+	      div.innerHTML = `<div class="alert alert-warning mt-3">Nenhum resultado encontrado para ENADE.</div>`;
+	    }
+	    
+	    if (listaIGC.length === 0) {
+	      divIGC.innerHTML = `<div class="alert alert-warning mt-3">Nenhum resultado encontrado para IGC.</div>`;
+	    }
+	    return;
     }
 
     let html = `
@@ -143,7 +168,22 @@
         <tbody>
     `;
     
+    let htmlIGC = `
+      <table class="table table-striped table-bordered table-sm">
+        <thead class="table-dark">
+          <tr>
+            <th>Ano</th>
+            <th>Universidade</th>
+            <th>Sigla</th>
+            <th>UF</th>
+            <th>IGC (Contínuo)</th>
+          </tr>
+        </thead>
+        <tbody>
+    `;
+    
     count = 0;
+    countIGC = 0;
 
     lista.forEach(l => {
       const nomeIES = l["Nome da IES*"] || l["Nome da IES"] || "";
@@ -168,13 +208,42 @@
       `;
       count += 1;
     });
-
     html += "</tbody></table>";
+    
+    listaIGC.forEach(l => {
+      const nomeIES = l["Nome da IES*"] || l["Nome da IES"] || "";
+      const siglaIES = l["Sigla"]|| l["Sigla da IES*"] || l[" Sigla da IES*"] || l["Sigla da IES"] || "";
+      const uf = l["Sigla da UF**"] || l["Sigla da UF** "] || l["Sigla da UF"] || "";
+      const nota = l["IGC (Contínuo)"] || "";
+
+      htmlIGC += `
+        <tr>
+          <td>${l["Ano"]}</td>
+          <td>${nomeIES}</td>
+          <td>${siglaIES}</td>
+          <td>${uf}</td>
+          <td>${nota}</td>
+        </tr>
+      `;
+      countIGC += 1;
+    });
+    htmlIGC += "</tbody></table>";
+    
+    
     if(count == 30)
-	html += "<p>Somente exibindo os primeiros 30 resultados encontrados.</p>";
+	html += "<p>Somente exibindo os primeiros 30 resultados encontrados para ENADE.</p>";
     else
-        html += "<p>Exibindo todos os "+count+" resultados encontrados.</p>";
+        html += "<p>Exibindo todos os "+count+" resultados encontrados para ENADE.</p>";
+        
+    if(countIGC == 30)
+	htmlIGC += "<p>Somente exibindo os primeiros 30 resultados encontrados para IGC.</p>";
+    else
+        htmlIGC += "<p>Exibindo todos os "+count+" resultados encontrados para IGC.</p>";
+        
+        
+    // fim
     div.innerHTML = html;
+    divIGC.innerHTML = htmlIGC;
   }
 
   // ---- Eventos ----
