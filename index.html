@@ -102,7 +102,7 @@
       (l["Sigla da IES"] && l["Sigla da IES"].toLowerCase().includes(univ))
     )) &&
       (!curso || (l["Área de Avaliação"] && l["Área de Avaliação"].toLowerCase().includes(curso)))
-    );
+    ).slice(0, 30);
 
     mostrarResultados(filtrado);
   }
@@ -142,6 +142,8 @@
         </thead>
         <tbody>
     `;
+    
+    count = 0;
 
     lista.forEach(l => {
       const nomeIES = l["Nome da IES*"] || l["Nome da IES"] || "";
@@ -164,9 +166,14 @@
           <td>${nota}</td>
         </tr>
       `;
+      count += 1;
     });
 
     html += "</tbody></table>";
+    if(count == 30)
+	html += "<p>Somente exibindo os primeiros 30 resultados encontrados.</p>";
+    else
+        html += "<p>Exibindo todos os "+count+" resultados encontrados.</p>";
     div.innerHTML = html;
   }
 
