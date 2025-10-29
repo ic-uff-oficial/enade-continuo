@@ -18,6 +18,10 @@ Esse site é bastante simples, consiste de um arquivo html que busca dados em ar
 
 O site é de código-aberto, portanto caso encontre alguma falha, por favor abra um Issue ou conserte diretamente com um Pull Request.
 
+#### Lista de Correções
+
+- [PR 1](https://github.com/ic-uff-oficial/enade-continuo/pull/1) - Curso UFF 90651 ENADE 2021 (nome incorreto na planilha)
+
 Boa sorte!
 
 ### Licença
