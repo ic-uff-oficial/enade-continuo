@@ -22,6 +22,12 @@ O site é de código-aberto, portanto caso encontre alguma falha, por favor abra
 
 - [PR 1](https://github.com/ic-uff-oficial/enade-continuo/pull/1) - Curso UFF 90651 ENADE 2021 (nome incorreto na planilha)
 
+
+### Ferramentas e Plugins úteis
+
+- Edição de CSV no VSCode: janisdd.vscode-edit-csv
+- Conversão de ODS para CSV: usar libreoffice
+
 Boa sorte!
 
 ### Licença

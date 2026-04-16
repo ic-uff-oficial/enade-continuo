@@ -70,6 +70,7 @@
 <script>
   let dados = [];
   let dadosIGC = [];
+  let dadosCPC = [];
 
   // ---- Carregar CSV ----
   function carregarCSV(arquivo) {
@@ -96,7 +97,36 @@
     const igc2023 = await carregarCSV("IGC_2023.csv");
     dadosIGC = igc2021.concat(igc2022).concat(igc2023);
     console.log(`Carregados ${dadosIGC.length} registros do IGC.`); 
+    const cpc2019 = await carregarCSV("CPC_2019.csv"); 
+    const cpc2021 = await carregarCSV("CPC_2021.csv"); 
+    const cpc2022 = await carregarCSV("CPC_2022.csv"); 
+    const cpc2023 = await carregarCSV("CPC_2023.csv"); 
+    dadosCPC = cpc2019.concat(cpc2021).concat(cpc2022).concat(cpc2023);;
+    console.log(`Carregados ${dadosCPC.length} registros do CPC.`);
   }
+
+  function getCPCMD(ano, codCurso) {
+  const targetAno = String(ano).trim();
+  const targetCurso = String(codCurso).trim();
+  
+  const cpc = dadosCPC.find(c => {
+    // Tentar várias possibilidades de nome de coluna
+    const cAno = String(c[" Ano"] || c["Ano"] || "").trim();
+    const cCurso = String(c[" Código do Curso"] || c["Código do Curso"] || c["Código do Curso**"] || c["Código do Curso*"] || "").trim();
+    
+    return cAno === targetAno && cCurso === targetCurso;
+  });
+  
+  if (cpc) {
+    const mestres = cpc["Nota Padronizada - Mestres"] || 
+                    cpc[" Nota Padronizada - Mestres"] || "-";
+    const doutores = cpc["Nota Padronizada - Doutores"] || 
+                     cpc[" Nota Padronizada - Doutores"] || "-";
+    return `${mestres} / ${doutores}`;
+  }
+  
+  return "- / -";
+}
 
   // ---- Filtro ----
   function filtrar() {
@@ -163,6 +193,7 @@
             <th>UF</th>
             <th>Cód. MEC</th>
             <th>Nota Enade (Contínuo)</th>
+            <th>CPC M/D</th>
           </tr>
         </thead>
         <tbody>
@@ -193,6 +224,7 @@
       const codCurso = l["Código do Curso"] || "";
       const nota = l["Conceito Enade (Contínuo)"] || "";
       const faixa = l["Conceito Enade (Faixa)"] || "";
+      const cpcMD = getCPCMD(l["Ano"], codCurso);
 
       html += `
         <tr>
@@ -204,6 +236,7 @@
           <td>${uf}</td>
           <td>${codCurso}</td>
           <td>${nota}</td>
+          <td>${cpcMD}</td>
         </tr>
       `;
       count += 1;
