@@ -21,6 +21,7 @@ O site é de código-aberto, portanto caso encontre alguma falha, por favor abra
 #### Lista de Correções
 
 - [PR 1](https://github.com/ic-uff-oficial/enade-continuo/pull/1) - Curso UFF 90651 ENADE 2021 (nome incorreto na planilha)
+- [PR 2](https://github.com/ic-uff-oficial/enade-continuo/pull/2) - Curso UFF 12722 ENADE 2019 (nome incorreto na planilha)
 
 
 ### Ferramentas e Plugins úteis
