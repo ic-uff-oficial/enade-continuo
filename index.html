@@ -227,13 +227,15 @@
       const nota = l["Conceito Enade (Contínuo)"] || "";
       const faixa = l["Conceito Enade (Faixa)"] || "";
       const cpcMD = getCPCMD(l["Ano"], codCurso);
+      const grauAcademico = l["Grau acadêmico"] || l["Grau Acadêmico"] || "";
+      const cursoComGrau = grauAcademico ? `${l["Área de Avaliação"]} (${grauAcademico})` : l["Área de Avaliação"];
 
       html += `
         <tr>
           <td>${l["Ano"]}</td>
           <td>${nomeIES}</td>
           <td>${siglaIES}</td>
-          <td>${l["Área de Avaliação"]}</td>
+          <td>${cursoComGrau}</td>
           <td>${cidade}</td>
           <td>${uf}</td>
           <td>${codCurso}</td>
