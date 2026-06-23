@@ -1,0 +1,355 @@
+Ano,Código da Área,Área de Avaliação,Grau Acadêmico,Código da IES,Nome da IES*,Sigla da IES*,Organização Acadêmica,Categoria Administrativa**,Código do Curso,Modalidade de Ensino,Código do Município,Município do Curso,Sigla da UF,Nº de Concluintes Inscritos,Nº  de Concluintes Participantes,Total Concluinte Acima do Padrão,Percentual Concluintes Acima do Padrão,Conceito Enade (Faixa),CEBAS
+2025,12,MEDICINA,Bacharelado,1,UNIVERSIDADE FEDERAL DE MATO GROSSO,UFMT,Universidade,Pública Federal,12,Educação Presencial,5103403,Cuiabá,MT,75,75,64,"0,853",4,NÃO
+2025,12,MEDICINA,Bacharelado,2,UNIVERSIDADE DE BRASÍLIA,UNB,Universidade,Pública Federal,140,Educação Presencial,5300108,Brasília,DF,102,99,87,"0,879",4,NÃO
+2025,12,MEDICINA,Bacharelado,3,UNIVERSIDADE FEDERAL DE SERGIPE,UFS,Universidade,Pública Federal,303,Educação Presencial,2800308,Aracaju,SE,48,47,44,"0,936",5,NÃO
+2025,12,MEDICINA,Bacharelado,4,UNIVERSIDADE FEDERAL DO AMAZONAS,UFAM,Universidade,Pública Federal,389,Educação Presencial,1302603,Manaus,AM,115,115,72,"0,626",3,NÃO
+2025,12,MEDICINA,Bacharelado,5,UNIVERSIDADE FEDERAL DO PIAUÍ,UFPI,Universidade,Pública Federal,484,Educação Presencial,2211001,Teresina,PI,28,28,24,"0,857",4,NÃO
+2025,12,MEDICINA,Bacharelado,9,UNIVERSIDADE ESTADUAL DE LONDRINA,UEL,Universidade,Pública Estadual,758,Educação Presencial,4113700,Londrina,PR,82,82,70,"0,854",4,NÃO
+2025,12,MEDICINA,Bacharelado,10,PONTIFÍCIA UNIVERSIDADE CATÓLICA DO PARANÁ,PUCPR,Universidade,Comunitária/Confessional,868,Educação Presencial,4106902,Curitiba,PR,187,186,166,"0,892",4,SIM
+2025,12,MEDICINA,Bacharelado,12,UNIVERSIDADE FEDERAL DO RIO GRANDE,FURG,Universidade,Pública Federal,1026,Educação Presencial,4315602,Rio Grande,RS,71,69,58,"0,841",4,NÃO
+2025,12,MEDICINA,Bacharelado,13,UNIVERSIDADE DE CAXIAS DO SUL,UCS,Universidade,Comunitária/Confessional,1107,Educação Presencial,4305108,Caxias do Sul,RS,109,105,83,"0,79",4,NÃO
+2025,12,MEDICINA,Bacharelado,17,UNIVERSIDADE FEDERAL DE UBERLÂNDIA,UFU,Universidade,Pública Federal,1439,Educação Presencial,3170206,Uberlândia,MG,125,124,112,"0,903",5,NÃO
+2025,12,MEDICINA,Bacharelado,18,UNIVERSIDADE CATÓLICA DE PELOTAS,UCPEL,Universidade,Comunitária/Confessional,1518,Educação Presencial,4314407,Pelotas,RS,163,163,114,"0,699",3,SIM
+2025,12,MEDICINA,Bacharelado,19,PONTIFÍCIA UNIVERSIDADE CATÓLICA DE CAMPINAS,PUC-CAMPINAS,Universidade,Comunitária/Confessional,1629,Educação Presencial,3509502,Campinas,SP,119,119,95,"0,798",4,SIM
+2025,12,MEDICINA,Bacharelado,20,UNIVERSIDADE DE PASSO FUNDO,UPF,Universidade,Comunitária/Confessional,1725,Educação Presencial,4314100,Passo Fundo,RS,99,99,83,"0,838",4,SIM
+2025,12,MEDICINA,Bacharelado,21,PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL,PUCRS,Universidade,Comunitária/Confessional,1879,Educação Presencial,4314902,Porto Alegre,RS,114,111,104,"0,937",5,SIM
+2025,12,MEDICINA,Bacharelado,30,UNIVERSIDADE PROFESSOR EDSON ANTÔNIO VELANO,UNIFENAS,Universidade,Privada sem fins lucrativos,2304,Educação Presencial,3101607,Alfenas,MG,165,165,108,"0,655",3,NÃO
+2025,12,MEDICINA,Bacharelado,32,UNIVERSIDADE ESTADUAL DE CIÊNCIAS DA SAÚDE DE ALAGOAS - UNCISAL,UNCISAL,Universidade,Pública Estadual,2348,Educação Presencial,2704302,Maceió,AL,51,51,39,"0,765",4,NÃO
+2025,12,MEDICINA,Bacharelado,38,UNIVERSIDADE DO ESTADO DO PARÁ,UEPA,Universidade,Pública Estadual,2392,Educação Presencial,1501402,Belém,PA,96,81,68,"0,84",4,NÃO
+2025,12,MEDICINA,Bacharelado,54,UNIVERSIDADE ESTADUAL DE CAMPINAS,UNICAMP,Universidade,Pública Estadual,2695,Educação Presencial,3509502,Campinas,SP,118,118,113,"0,958",5,NÃO
+2025,12,MEDICINA,Bacharelado,55,UNIVERSIDADE DE SÃO PAULO,USP,Universidade,Pública Estadual,2918,Educação Presencial,3550308,São Paulo,SP,173,172,170,"0,988",5,NÃO
+2025,12,MEDICINA,Bacharelado,56,UNIVERSIDADE ESTADUAL PAULISTA JÚLIO DE MESQUITA FILHO,UNESP,Universidade,Pública Estadual,3148,Educação Presencial,3507506,Botucatu,SP,90,89,82,"0,921",5,NÃO
+2025,12,MEDICINA,Bacharelado,57,UNIVERSIDADE ESTADUAL DE MARINGÁ,UEM,Universidade,Pública Estadual,3418,Educação Presencial,4115200,Maringá,PR,40,40,36,"0,9",5,NÃO
+2025,12,MEDICINA,Bacharelado,76,UNIVERSIDADE REGIONAL DE BLUMENAU,FURB,Universidade,Especial,3677,Educação Presencial,4202404,Blumenau,SC,82,82,50,"0,61",3,NÃO
+2025,12,MEDICINA,Bacharelado,93,FACULDADE DE MEDICINA DE JUNDIAÍ,FMJ,Faculdade,Pública Municipal,4082,Educação Presencial,3525904,Jundiaí,SP,117,116,112,"0,966",5,NÃO
+2025,12,MEDICINA,Bacharelado,140,UNIVERSIDADE DE VASSOURAS,UNIVASSOURAS,Universidade,Privada sem fins lucrativos,4503,Educação Presencial,3306206,Vassouras,RJ,298,296,218,"0,736",3,NÃO
+2025,12,MEDICINA,Bacharelado,149,FACULDADE DE MEDICINA DE SÃO JOSÉ DO RIO PRETO,FAMERP,Faculdade,Pública Estadual,4720,Educação Presencial,3549805,São José do Rio Preto,SP,82,82,78,"0,951",5,NÃO
+2025,12,MEDICINA,Bacharelado,1586,UNIVERSIDADE DO VALE DO SAPUCAÍ,UNIVÁS,Universidade,Privada sem fins lucrativos,5206,Educação Presencial,3152501,Pouso Alegre,MG,78,78,70,"0,897",4,SIM
+2025,12,MEDICINA,Bacharelado,192,FACULDADE SOUZA MARQUES,FSM,Faculdade,Privada sem fins lucrativos,5345,Educação Presencial,3304557,Rio de Janeiro,RJ,175,174,133,"0,764",4,SIM
+2025,12,MEDICINA,Bacharelado,224,Centro Universitário FMABC,FMABC,Centro Universitário,Privada sem fins lucrativos,5909,Educação Presencial,3547809,Santo André,SP,129,128,115,"0,898",4,NÃO
+2025,12,MEDICINA,Bacharelado,226,CENTRO UNIVERSITÁRIO LUSÍADA,UNILUS,Centro Universitário,Privada sem fins lucrativos,5920,Educação Presencial,3548500,Santos,SP,114,114,79,"0,693",3,SIM
+2025,12,MEDICINA,Bacharelado,271,UNIVERSIDADE DO OESTE PAULISTA,UNOESTE,Universidade,Privada sem fins lucrativos,6496,Educação Presencial,3541406,Presidente Prudente,SP,242,242,185,"0,764",4,NÃO
+2025,12,MEDICINA,Bacharelado,284,Afya Faculdade de Medicina de Itajubá,Afya Itajubá,Faculdade,Privada com fins lucrativos,6711,Educação Presencial,3132404,Itajubá,MG,104,104,75,"0,721",3,NÃO
+2025,12,MEDICINA,Bacharelado,307,FACULDADE DE MEDICINA DE BARBACENA,FAME,Faculdade,Privada sem fins lucrativos,7105,Educação Presencial,3105608,Barbacena,MG,124,124,73,"0,589",2,NÃO
+2025,12,MEDICINA,Bacharelado,330,UNIVERSIDADE IGUAÇU,UNIG,Universidade,Privada sem fins lucrativos,7414,Educação Presencial,3303500,Nova Iguaçu,RJ,173,173,70,"0,405",2,SIM
+2025,12,MEDICINA,Bacharelado,351,FACULDADE DE CIÊNCIAS MÉDICAS DE MINAS GERAIS,FCMMG,Faculdade,Privada sem fins lucrativos,7676,Educação Presencial,3106200,Belo Horizonte,MG,408,396,311,"0,785",4,NÃO
+2025,12,MEDICINA,Bacharelado,353,FACULDADE EVANGÉLICA MACKENZIE DO PARANÁ,FEMPAR,Faculdade,Privada sem fins lucrativos,7705,Educação Presencial,4106902,Curitiba,PR,133,132,118,"0,894",4,SIM
+2025,12,MEDICINA,Bacharelado,367,UNIVERSIDADE ESTADUAL DE MONTES CLAROS,UNIMONTES,Universidade,Pública Estadual,7837,Educação Presencial,3143302,Montes Claros,MG,73,72,66,"0,917",5,NÃO
+2025,12,MEDICINA,Bacharelado,409,UNIVERSIDADE DE PERNAMBUCO,UPE,Universidade,Pública Estadual,8437,Educação Presencial,2611606,Recife,PE,148,147,131,"0,891",4,NÃO
+2025,12,MEDICINA,Bacharelado,415,FACULDADE DE CIÊNCIAS MÉDICAS DA SANTA CASA SÃO PAULO,FCMSCSP,Faculdade,Privada sem fins lucrativos,8554,Educação Presencial,3550308,São Paulo,SP,120,119,116,"0,975",5,NÃO
+2025,12,MEDICINA,Bacharelado,420,UNIVERSIDADE DE MARÍLIA,UNIMAR,Universidade,Privada com fins lucrativos,8698,Educação Presencial,3529005,Marília,SP,168,163,77,"0,472",2,NÃO
+2025,12,MEDICINA,Bacharelado,431,FACULDADE DE MEDICINA DE MARÍLIA,FAMEMA,Faculdade,Pública Estadual,8960,Educação Presencial,3529005,Marília,SP,74,74,71,"0,959",5,NÃO
+2025,12,MEDICINA,Bacharelado,449,UNIVERSIDADE LUTERANA DO BRASIL,ULBRA,Universidade,Comunitária/Confessional,9326,Educação Presencial,4304606,Canoas,RS,109,106,63,"0,594",2,NÃO
+2025,12,MEDICINA,Bacharelado,475,FACULDADE DE MEDICINA DE PETRÓPOLIS,FMP,Faculdade,Privada sem fins lucrativos,9772,Educação Presencial,3303906,Petrópolis,RJ,153,152,107,"0,704",3,SIM
+2025,12,MEDICINA,Bacharelado,480,CENTRO UNIVERSITÁRIO SERRA DOS ÓRGÃOS,UNIFESO,Centro Universitário,Privada sem fins lucrativos,9805,Educação Presencial,3305802,Teresópolis,RJ,153,152,72,"0,474",2,NÃO
+2025,12,MEDICINA,Bacharelado,489,CENTRO UNIVERSITÁRIO DE VOLTA REDONDA,UNIFOA,Centro Universitário,Privada sem fins lucrativos,9988,Educação Presencial,3306305,Volta Redonda,RJ,119,119,62,"0,521",2,NÃO
+2025,12,MEDICINA,Bacharelado,490,CENTRO UNIVERSITÁRIO DE VALENÇA,UNIFAA,Centro Universitário,Privada sem fins lucrativos,9996,Educação Presencial,3306107,Valença,RJ,220,220,146,"0,664",3,SIM
+2025,12,MEDICINA,Bacharelado,5215,CENTRO UNIVERSITÁRIO PADRE ALBINO,,Centro Universitário,Privada sem fins lucrativos,10222,Educação Presencial,3511102,Catanduva,SP,111,111,104,"0,937",5,NÃO
+2025,12,MEDICINA,Bacharelado,501,ESCOLA SUPERIOR DE CIÊNCIAS DA SANTA CASA DE MISERICÓRDIA DE VITÓRIA,EMESCAM,Faculdade,Privada sem fins lucrativos,10224,Educação Presencial,3205309,Vitória,ES,135,135,109,"0,807",4,NÃO
+2025,12,MEDICINA,Bacharelado,506,FACULDADE DE MEDICINA DE CAMPOS,FMC,Faculdade,Privada sem fins lucrativos,10289,Educação Presencial,3301009,Campos dos Goytacazes,RJ,129,129,74,"0,574",2,NÃO
+2025,12,MEDICINA,Bacharelado,521,UNIVERSIDADE DE MOGI DAS CRUZES,UMC,Universidade,Privada com fins lucrativos,10591,Educação Presencial,3530607,Mogi das Cruzes,SP,93,93,31,"0,333",1,NÃO
+2025,12,MEDICINA,Bacharelado,534,ESCOLA BAHIANA DE MEDICINA E SAÚDE PÚBLICA,EBMSP,Faculdade,Privada sem fins lucrativos,11114,Educação Presencial,2927408,Salvador,BA,291,290,248,"0,855",4,NÃO
+2025,12,MEDICINA,Bacharelado,546,PONTIFÍCIA UNIVERSIDADE CATÓLICA DE SÃO PAULO,PUCSP,Universidade,Comunitária/Confessional,11233,Educação Presencial,3552205,Sorocaba,SP,109,109,94,"0,862",4,NÃO
+2025,12,MEDICINA,Bacharelado,547,UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO,UERJ,Universidade,Pública Estadual,11316,Educação Presencial,3304557,Rio de Janeiro,RJ,110,109,97,"0,89",4,NÃO
+2025,12,MEDICINA,Bacharelado,548,UNIVERSIDADE FEDERAL DO MARANHÃO,UFMA,Universidade,Pública Federal,11446,Educação Presencial,2111300,São Luís,MA,98,95,73,"0,768",4,NÃO
+2025,12,MEDICINA,Bacharelado,569,UNIVERSIDADE FEDERAL DO PARÁ,UFPA,Universidade,Pública Federal,12015,Educação Presencial,1501402,Belém,PA,155,149,90,"0,604",3,NÃO
+2025,12,MEDICINA,Bacharelado,570,UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE,UFRN,Universidade,Pública Federal,12345,Educação Presencial,2408102,Natal,RN,105,103,100,"0,971",5,NÃO
+2025,12,MEDICINA,Bacharelado,571,UNIVERSIDADE FEDERAL DO PARANÁ,UFPR,Universidade,Pública Federal,12569,Educação Presencial,4106902,Curitiba,PR,281,261,228,"0,874",4,NÃO
+2025,12,MEDICINA,Bacharelado,572,UNIVERSIDADE FEDERAL FLUMINENSE,UFF,Universidade,Pública Federal,12692,Educação Presencial,3303302,Niterói,RJ,166,165,124,"0,752",4,NÃO
+2025,12,MEDICINA,Bacharelado,573,UNIVERSIDADE FEDERAL DO ESPÍRITO SANTO,UFES,Universidade,Pública Federal,12813,Educação Presencial,3205309,Vitória,ES,112,111,103,"0,928",5,NÃO
+2025,12,MEDICINA,Bacharelado,575,UNIVERSIDADE FEDERAL DE MINAS GERAIS,UFMG,Universidade,Pública Federal,12970,Educação Presencial,3106200,Belo Horizonte,MG,312,306,280,"0,915",5,NÃO
+2025,12,MEDICINA,Bacharelado,576,UNIVERSIDADE FEDERAL DE JUIZ DE FORA,UFJF,Universidade,Pública Federal,13103,Educação Presencial,3136702,Juiz de Fora,MG,84,84,77,"0,917",5,NÃO
+2025,12,MEDICINA,Bacharelado,577,UNIVERSIDADE FEDERAL DE ALAGOAS,UFAL,Universidade,Pública Federal,13200,Educação Presencial,2704302,Maceió,AL,89,88,70,"0,795",4,NÃO
+2025,12,MEDICINA,Bacharelado,578,UNIVERSIDADE FEDERAL DA BAHIA,UFBA,Universidade,Pública Federal,13286,Educação Presencial,2927408,Salvador,BA,164,163,131,"0,804",4,NÃO
+2025,12,MEDICINA,Bacharelado,579,UNIVERSIDADE FEDERAL DA PARAÍBA,UFPB,Universidade,Pública Federal,13424,Educação Presencial,2507507,João Pessoa,PB,118,114,102,"0,895",4,NÃO
+2025,12,MEDICINA,Bacharelado,2564,UNIVERSIDADE FEDERAL DE CAMPINA GRANDE,UFCG,Universidade,Pública Federal,13453,Educação Presencial,2504009,Campina Grande,PB,87,87,72,"0,828",4,NÃO
+2025,12,MEDICINA,Bacharelado,580,UNIVERSIDADE FEDERAL DE PERNAMBUCO,UFPE,Universidade,Pública Federal,13601,Educação Presencial,2611606,Recife,PE,143,142,121,"0,852",4,NÃO
+2025,12,MEDICINA,Bacharelado,581,UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL,UFRGS,Universidade,Pública Federal,13723,Educação Presencial,4314902,Porto Alegre,RS,138,137,109,"0,796",4,NÃO
+2025,12,MEDICINA,Bacharelado,582,UNIVERSIDADE FEDERAL DE SANTA MARIA,UFSM,Universidade,Pública Federal,13866,Educação Presencial,4316907,Santa Maria,RS,107,106,83,"0,783",4,NÃO
+2025,12,MEDICINA,Bacharelado,583,UNIVERSIDADE FEDERAL DO CEARÁ,UFC,Universidade,Pública Federal,13996,Educação Presencial,2304400,Fortaleza,CE,145,143,130,"0,909",5,NÃO
+2025,12,MEDICINA,Bacharelado,584,UNIVERSIDADE FEDERAL DE GOIÁS,UFG,Universidade,Pública Federal,14093,Educação Presencial,5208707,Goiânia,GO,112,111,94,"0,847",4,NÃO
+2025,12,MEDICINA,Bacharelado,585,UNIVERSIDADE FEDERAL DE SANTA CATARINA,UFSC,Universidade,Pública Federal,14234,Educação Presencial,4205407,Florianópolis,SC,106,106,90,"0,849",4,NÃO
+2025,12,MEDICINA,Bacharelado,586,UNIVERSIDADE FEDERAL DO RIO DE JANEIRO,UFRJ,Universidade,Pública Federal,14359,Educação Presencial,3304557,Rio de Janeiro,RJ,185,177,152,"0,859",4,NÃO
+2025,12,MEDICINA,Bacharelado,591,UNIVERSIDADE FEDERAL DE SÃO PAULO,UNIFESP,Universidade,Pública Federal,14563,Educação Presencial,3550308,São Paulo,SP,127,126,113,"0,897",4,NÃO
+2025,12,MEDICINA,Bacharelado,597,UNIVERSIDADE FEDERAL DO TRIÂNGULO MINEIRO,UFTM,Universidade,Pública Federal,14615,Educação Presencial,3170107,Uberaba,MG,97,94,77,"0,819",4,NÃO
+2025,12,MEDICINA,Bacharelado,609,UNIVERSIDADE ESTADUAL DO OESTE DO PARANÁ,UNIOESTE,Universidade,Pública Estadual,14725,Educação Presencial,4104808,Cascavel,PR,48,46,41,"0,891",4,NÃO
+2025,12,MEDICINA,Bacharelado,634,UNIVERSIDADE FEDERAL DE PELOTAS,UFPEL,Universidade,Pública Federal,14975,Educação Presencial,4314407,Pelotas,RS,109,107,82,"0,766",4,NÃO
+2025,12,MEDICINA,Bacharelado,665,UNIVERSIDADE DE TAUBATÉ,UNITAU,Universidade,Especial,15343,Educação Presencial,3554102,Taubaté,SP,117,117,66,"0,564",2,NÃO
+2025,12,MEDICINA,Bacharelado,670,UNIVERSIDADE SÃO FRANCISCO,USF,Universidade,Comunitária/Confessional,15475,Educação Presencial,3507605,Bragança Paulista,SP,153,146,98,"0,671",3,SIM
+2025,12,MEDICINA,Bacharelado,693,UNIVERSIDADE FEDERAL DO ESTADO DO RIO DE JANEIRO,UNIRIO,Universidade,Pública Federal,15783,Educação Presencial,3304557,Rio de Janeiro,RJ,135,132,108,"0,818",4,NÃO
+2025,12,MEDICINA,Bacharelado,694,UNIVERSIDADE FEDERAL DE MATO GROSSO DO SUL,UFMS,Universidade,Pública Federal,15839,Educação Presencial,5002704,Campo Grande,MS,83,82,76,"0,927",5,NÃO
+2025,12,MEDICINA,Bacharelado,717,FUNDAÇÃO UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE,UFCSPA,Universidade,Pública Federal,16236,Educação Presencial,4314902,Porto Alegre,RS,94,92,83,"0,902",5,NÃO
+2025,12,MEDICINA,Bacharelado,789,UNIVERSIDADE FEDERAL DE RORAIMA,UFRR,Universidade,Pública Federal,16904,Educação Presencial,1400100,Boa Vista,RR,84,78,70,"0,897",4,NÃO
+2025,12,MEDICINA,Bacharelado,208,UNIVERSIDADE DE RIBEIRÃO PRETO,UNAERP,Universidade,Privada sem fins lucrativos,18447,Educação Presencial,3543402,Ribeirão Preto,SP,133,133,114,"0,857",4,SIM
+2025,12,MEDICINA,Bacharelado,780,UNIVERSIDADE DE CUIABÁ,UNIC/UNIME,Universidade,Privada com fins lucrativos,18472,Educação Presencial,5103403,Cuiabá,MT,167,164,75,"0,457",2,NÃO
+2025,12,MEDICINA,Bacharelado,163,UNIVERSIDADE ESTÁCIO DE SÁ,UNESA,Universidade,Privada com fins lucrativos,18594,Educação Presencial,3304557,Rio de Janeiro,RJ,229,228,148,"0,649",3,NÃO
+2025,12,MEDICINA,Bacharelado,472,Afya Universidade Unigranrio,UNIGRANRIO,Universidade,Privada com fins lucrativos,18605,Educação Presencial,3301702,Duque de Caxias,RJ,194,191,83,"0,435",2,NÃO
+2025,12,MEDICINA,Bacharelado,756,UNIVERSIDADE ESTADUAL DO PIAUÍ,UESPI,Universidade,Pública Estadual,19086,Educação Presencial,2211001,Teresina,PI,44,42,33,"0,786",4,NÃO
+2025,12,MEDICINA,Bacharelado,953,UNIVERSIDADE METROPOLITANA DE SANTOS,UNIMES,Universidade,Privada sem fins lucrativos,19206,Educação Presencial,3548500,Santos,SP,103,103,66,"0,641",3,NÃO
+2025,12,MEDICINA,Bacharelado,330,UNIVERSIDADE IGUAÇU,UNIG,Universidade,Privada sem fins lucrativos,19294,Educação Presencial,3302205,Itaperuna,RJ,136,136,67,"0,493",2,SIM
+2025,12,MEDICINA,Bacharelado,83,UNIVERSIDADE DO VALE DO ITAJAÍ,UNIVALI,Universidade,Comunitária/Confessional,19434,Educação Presencial,4208203,Itajaí,SC,76,75,64,"0,853",4,NÃO
+2025,12,MEDICINA,Bacharelado,138,CENTRO UNIVERSITÁRIO BARÃO DE MAUÁ,CBM,Centro Universitário,Privada sem fins lucrativos,19850,Educação Presencial,3543402,Ribeirão Preto,SP,115,115,103,"0,896",4,NÃO
+2025,12,MEDICINA,Bacharelado,81,UNIVERSIDADE DA REGIÃO DE JOINVILLE,UNIVILLE,Universidade,Comunitária/Confessional,20058,Educação Presencial,4209102,Joinville,SC,83,82,60,"0,732",3,NÃO
+2025,12,MEDICINA,Bacharelado,494,UNIVERSIDADE DO SUL DE SANTA CATARINA,UNISUL,Universidade,Comunitária/Confessional,20249,Educação Presencial,4218707,Tubarão,SC,141,139,90,"0,647",3,SIM
+2025,12,MEDICINA,Bacharelado,143,UNIVERSIDADE DE UBERABA,UNIUBE,Universidade,Privada sem fins lucrativos,20360,Educação Presencial,3170107,Uberaba,MG,123,122,94,"0,77",4,SIM
+2025,12,MEDICINA,Bacharelado,4504,FUNDAÇÃO UNIVERSIDADE FEDERAL DA GRANDE DOURADOS,UFGD,Universidade,Pública Federal,21542,Educação Presencial,5003702,Dourados,MS,73,72,65,"0,903",5,NÃO
+2025,12,MEDICINA,Bacharelado,1547,FACULDADE DE MEDICINA ESTÁCIO DE JUAZEIRO DO NORTE,ESTÁCIO FMJ,Faculdade,Privada com fins lucrativos,37304,Educação Presencial,2307304,Juazeiro do Norte,CE,125,124,83,"0,669",3,NÃO
+2025,12,MEDICINA,Bacharelado,482,UNIVERSIDADE DO EXTREMO SUL CATARINENSE,UNESC,Universidade,Comunitária/Confessional,38071,Educação Presencial,4204608,Criciúma,SC,98,98,77,"0,786",4,SIM
+2025,12,MEDICINA,Bacharelado,671,UNIVERSIDADE ANHANGUERA,UNIDERP,Universidade,Privada com fins lucrativos,39415,Educação Presencial,5002704,Campo Grande,MS,159,158,92,"0,582",2,NÃO
+2025,12,MEDICINA,Bacharelado,403,UNIVERSIDADE CATÓLICA DE BRASÍLIA,UCB,Universidade,Comunitária/Confessional,48854,Educação Presencial,5300108,Brasília,DF,98,98,77,"0,786",4,SIM
+2025,12,MEDICINA,Bacharelado,669,UNIVERSIDADE NILTON LINS,UNINILTONLINS,Universidade,Privada sem fins lucrativos,49060,Educação Presencial,1302603,Manaus,AM,142,141,55,"0,39",1,NÃO
+2025,12,MEDICINA,Bacharelado,24,UNIVERSIDADE ESTADUAL DE SANTA CRUZ,UESC,Universidade,Pública Estadual,49910,Educação Presencial,2913606,Ilhéus,BA,39,39,36,"0,923",5,NÃO
+2025,12,MEDICINA,Bacharelado,699,FUNDAÇÃO UNIVERSIDADE FEDERAL DE RONDÔNIA,UNIR,Universidade,Pública Federal,51699,Educação Presencial,1100205,Porto Velho,RO,23,23,19,"0,826",4,NÃO
+2025,12,MEDICINA,Bacharelado,5439,CENTRO UNIVERSITÁRIO DO PLANALTO CENTRAL APPARECIDO DOS SANTOS,UNICEPLAC,Centro Universitário,Privada com fins lucrativos,51835,Educação Presencial,5300108,Brasília,DF,153,153,92,"0,601",3,NÃO
+2025,12,MEDICINA,Bacharelado,549,UNIVERSIDADE FEDERAL DO ACRE,UFAC,Universidade,Pública Federal,53338,Educação Presencial,1200401,Rio Branco,AC,41,41,36,"0,878",4,NÃO
+2025,12,MEDICINA,Bacharelado,583,UNIVERSIDADE FEDERAL DO CEARÁ,UFC,Universidade,Pública Federal,54490,Educação Presencial,2312908,Sobral,CE,72,72,60,"0,833",4,NÃO
+2025,12,MEDICINA,Bacharelado,18759,UNIVERSIDADE FEDERAL DO CARIRI,UFCA,Universidade,Pública Federal,54494,Educação Presencial,2301901,Barbalha,CE,79,78,67,"0,859",4,NÃO
+2025,12,MEDICINA,Bacharelado,417,UNIVERSIDADE CIDADE DE SÃO PAULO,UNICID,Universidade,Privada com fins lucrativos,57402,Educação Presencial,3550308,São Paulo,SP,242,240,139,"0,579",2,NÃO
+2025,12,MEDICINA,Bacharelado,750,UNIVERSIDADE DE GURUPI,UnirG,Universidade,Especial,57852,Educação Presencial,1709500,Gurupi,TO,115,115,66,"0,574",2,NÃO
+2025,12,MEDICINA,Bacharelado,27103,UNIVERSIDADE DO DISTRITO FEDERAL,UnDF,Universidade,Pública Estadual,58412,Educação Presencial,5300108,Brasília,DF,78,78,75,"0,962",5,NÃO
+2025,12,MEDICINA,Bacharelado,823,UNIVERSIDADE CEUMA,UNICEUMA,Universidade,Privada sem fins lucrativos,59174,Educação Presencial,2111300,São Luís,MA,180,178,92,"0,517",2,NÃO
+2025,12,MEDICINA,Bacharelado,1042,UNIVERSIDADE POSITIVO,UP,Universidade,Privada com fins lucrativos,59414,Educação Presencial,4106902,Curitiba,PR,165,163,149,"0,914",5,NÃO
+2025,12,MEDICINA,Bacharelado,3172,UNIVERSIDADE DO ESTADO DO AMAZONAS,UEA,Universidade,Pública Estadual,60660,Educação Presencial,1302603,Manaus,AM,113,113,75,"0,664",3,NÃO
+2025,12,MEDICINA,Bacharelado,666,UNIVERSIDADE ESTADUAL DE FEIRA DE SANTANA,UEFS,Universidade,Pública Estadual,64706,Educação Presencial,2910800,Feira de Santana,BA,29,29,22,"0,759",4,NÃO
+2025,12,MEDICINA,Bacharelado,30,UNIVERSIDADE PROFESSOR EDSON ANTÔNIO VELANO,UNIFENAS,Universidade,Privada sem fins lucrativos,64918,Educação Presencial,3106200,Belo Horizonte,MG,246,245,170,"0,694",3,NÃO
+2025,12,MEDICINA,Bacharelado,319,UNIVERSIDADE BRASIL,UB,Universidade,Privada com fins lucrativos,65114,Educação Presencial,3515509,Fernandópolis,SP,348,343,123,"0,359",1,NÃO
+2025,12,MEDICINA,Bacharelado,308,CENTRO UNIVERSITÁRIO PRESIDENTE ANTÔNIO CARLOS,UNIPAC,Centro Universitário,Privada sem fins lucrativos,65924,Educação Presencial,3136702,Juiz de Fora,MG,64,63,19,"0,302",1,NÃO
+2025,12,MEDICINA,Bacharelado,29,UNIVERSIDADE ESTADUAL DO CEARÁ,UECE,Universidade,Pública Estadual,66248,Educação Presencial,2304400,Fortaleza,CE,74,74,69,"0,932",5,NÃO
+2025,12,MEDICINA,Bacharelado,1664,FACULDADE DA SAÚDE E ECOLOGIA HUMANA,FASEH,Faculdade,Privada com fins lucrativos,66361,Educação Presencial,3171204,Vespasiano,MG,128,128,51,"0,398",1,NÃO
+2025,12,MEDICINA,Bacharelado,1189,UNIVERSIDADE DO PLANALTO CATARINENSE,UNIPLAC,Universidade,Privada sem fins lucrativos,69464,Educação Presencial,4209300,Lages,SC,49,49,43,"0,878",4,NÃO
+2025,12,MEDICINA,Bacharelado,82,UNIVERSIDADE DO OESTE DE SANTA CATARINA,UNOESC,Universidade,Comunitária/Confessional,69624,Educação Presencial,4209003,Joaçaba,SC,65,65,54,"0,831",4,SIM
+2025,12,MEDICINA,Bacharelado,568,UNIVERSIDADE ESTADUAL DO MARANHÃO,UEMA,Universidade,Pública Estadual,71689,Educação Presencial,2103000,Caxias,MA,26,26,21,"0,808",4,NÃO
+2025,12,MEDICINA,Bacharelado,1669,Afya Faculdade de Ciências Médicas de Ipatinga,AFYA IPATINGA,Faculdade,Privada com fins lucrativos,71859,Educação Presencial,3131307,Ipatinga,MG,150,148,112,"0,757",4,NÃO
+2025,12,MEDICINA,Bacharelado,71,UNIVERSIDADE DO ESTADO DO RIO GRANDE DO NORTE,UERN,Universidade,Pública Estadual,72417,Educação Presencial,2408003,Mossoró,RN,61,61,49,"0,803",4,NÃO
+2025,12,MEDICINA,Bacharelado,1559,CENTRO UNIVERSITÁRIO DO ESPÍRITO SANTO UNESC,UNESC,Centro Universitário,Privada sem fins lucrativos,72663,Educação Presencial,3201506,Colatina,ES,178,178,136,"0,764",4,NÃO
+2025,12,MEDICINA,Bacharelado,2082,Afya Faculdade de Ciências Médicas da Paraíba,AFYA PARAÍBA,Faculdade,Privada com fins lucrativos,72667,Educação Presencial,2507507,João Pessoa,PB,178,174,74,"0,425",2,NÃO
+2025,12,MEDICINA,Bacharelado,1563,AFYA CENTRO UNIVERSITÁRIO DE TERESINA,Afya Teresina,Centro Universitário,Privada com fins lucrativos,72669,Educação Presencial,2211001,Teresina,PI,308,305,186,"0,61",3,NÃO
+2025,12,MEDICINA,Bacharelado,1087,CENTRO UNIVERSITÁRIO APARÍCIO CARVALHO,FIMCA,Centro Universitário,Privada com fins lucrativos,72675,Educação Presencial,1100205,Porto Velho,RO,98,97,53,"0,546",2,NÃO
+2025,12,MEDICINA,Bacharelado,1995,FACULDADE DE MEDICINA NOVA ESPERANÇA,FAMENE,Faculdade,Privada com fins lucrativos,72681,Educação Presencial,2507507,João Pessoa,PB,212,206,94,"0,456",2,NÃO
+2025,12,MEDICINA,Bacharelado,5544,Afya Faculdade de Porto Nacional,Afya Porto Nacional,Faculdade,Privada com fins lucrativos,72767,Educação Presencial,1718204,Porto Nacional,TO,154,154,66,"0,429",2,NÃO
+2025,12,MEDICINA,Bacharelado,2843,FACULDADE DE CIÊNCIAS MÉDICAS E DA SAÚDE DE JUIZ DE FORA,FCMS/JF,Faculdade,Privada com fins lucrativos,74594,Educação Presencial,3136702,Juiz de Fora,MG,137,137,110,"0,803",4,NÃO
+2025,12,MEDICINA,Bacharelado,375,UNIVERSIDADE SANTO AMARO,UNISA,Universidade,Privada sem fins lucrativos,74655,Educação Presencial,3550308,São Paulo,SP,313,308,150,"0,487",2,SIM
+2025,12,MEDICINA,Bacharelado,472,Afya Universidade Unigranrio,UNIGRANRIO,Universidade,Privada com fins lucrativos,75821,Educação Presencial,3304557,Rio de Janeiro,RJ,165,162,91,"0,562",2,NÃO
+2025,12,MEDICINA,Bacharelado,1461,Centro Universitário Zarns - Salvador,ZARNS SALVADOR,Centro Universitário,Privada com fins lucrativos,78256,Educação Presencial,2927408,Salvador,BA,315,313,176,"0,562",2,NÃO
+2025,12,MEDICINA,Bacharelado,1734,Centro Universitário Facid Wyden,UNIFACID WYDEN,Centro Universitário,Privada com fins lucrativos,79007,Educação Presencial,2211001,Teresina,PI,121,121,78,"0,645",3,NÃO
+2025,12,MEDICINA,Bacharelado,688,UNIVERSIDADE ESTADUAL DO SUDOESTE DA BAHIA,UESB,Universidade,Pública Estadual,80037,Educação Presencial,2933307,Vitória da Conquista,BA,33,33,31,"0,939",5,NÃO
+2025,12,MEDICINA,Bacharelado,316,UNIVERSIDADE NOVE DE JULHO,UNINOVE,Universidade,Privada sem fins lucrativos,82224,Educação Presencial,3550308,São Paulo,SP,195,195,139,"0,713",3,NÃO
+2025,12,MEDICINA,Bacharelado,19512,Centro Universitário Imepac - Araguari,,Centro Universitário,Privada com fins lucrativos,84352,Educação Presencial,3103504,Araguari,MG,198,196,148,"0,755",4,NÃO
+2025,12,MEDICINA,Bacharelado,527,PONTIFÍCIA UNIVERSIDADE CATÓLICA DE GOIÁS,PUC GOIÁS,Universidade,Comunitária/Confessional,84408,Educação Presencial,5208707,Goiânia,GO,138,137,90,"0,657",3,SIM
+2025,12,MEDICINA,Bacharelado,3984,FUNDAÇÃO UNIVERSIDADE FEDERAL DO VALE DO SÃO FRANCISCO,UNIVASF,Universidade,Pública Federal,85586,Educação Presencial,2611101,Petrolina,PE,39,38,37,"0,974",5,NÃO
+2025,12,MEDICINA,Bacharelado,1414,Afya Centro Universitário de Porto Velho,Afya Porto Velho,Centro Universitário,Privada com fins lucrativos,85652,Educação Presencial,1100205,Porto Velho,RO,309,297,144,"0,485",2,NÃO
+2025,12,MEDICINA,Bacharelado,1600,Centro Universitário do Norte de Minas,Uninorte Minas,Centro Universitário,Privada com fins lucrativos,86288,Educação Presencial,3143302,Montes Claros,MG,152,150,105,"0,7",3,NÃO
+2025,12,MEDICINA,Bacharelado,1244,Centro Universitário Multivix Vitória,,Centro Universitário,Privada com fins lucrativos,86356,Educação Presencial,3205309,Vitória,ES,138,137,101,"0,737",3,NÃO
+2025,12,MEDICINA,Bacharelado,3615,FACULDADE PERNAMBUCANA DE SAÚDE,FPS,Faculdade,Comunitária/Confessional,87537,Educação Presencial,2611606,Recife,PE,216,214,185,"0,864",4,NÃO
+2025,12,MEDICINA,Bacharelado,124,UNIVERSIDADE DE ARARAQUARA,UNIARA,Universidade,Privada sem fins lucrativos,87941,Educação Presencial,3503208,Araraquara,SP,152,152,96,"0,632",3,NÃO
+2025,12,MEDICINA,Bacharelado,2579,CENTRO UNIVERSITÁRIO ATENAS,UniAtenas,Centro Universitário,Privada com fins lucrativos,90059,Educação Presencial,3147006,Paracatu,MG,172,170,111,"0,653",3,NÃO
+2025,12,MEDICINA,Bacharelado,1895,CENTRO UNIVERSITÁRIO CHRISTUS,UNICHRISTUS,Centro Universitário,Privada com fins lucrativos,90084,Educação Presencial,2304400,Fortaleza,CE,222,219,197,"0,9",5,NÃO
+2025,12,MEDICINA,Bacharelado,7,UNIVERSIDADE FEDERAL DE SÃO CARLOS,UFSCAR,Universidade,Pública Federal,90091,Educação Presencial,3548906,São Carlos,SP,38,38,38,1,5,NÃO
+2025,12,MEDICINA,Bacharelado,1334,CENTRO UNIVERSITÁRIO FACISA,UNIFACISA,Centro Universitário,Privada com fins lucrativos,90483,Educação Presencial,2504009,Campina Grande,PB,240,237,142,"0,599",2,NÃO
+2025,12,MEDICINA,Bacharelado,3151,UNIVERSIDADE COMUNITÁRIA DA REGIÃO DE CHAPECÓ,UNOCHAPECÓ,Universidade,Comunitária/Confessional,90847,Educação Presencial,4204202,Chapecó,SC,52,52,42,"0,808",4,SIM
+2025,12,MEDICINA,Bacharelado,718,UNIVERSIDADE POTIGUAR,UNP,Universidade,Privada com fins lucrativos,91219,Educação Presencial,2408102,Natal,RN,251,248,192,"0,774",4,NÃO
+2025,12,MEDICINA,Bacharelado,295,UNIVERSIDADE DE SANTA CRUZ DO SUL,UNISC,Universidade,Comunitária/Confessional,91399,Educação Presencial,4316808,Santa Cruz do Sul,RS,83,83,54,"0,651",3,SIM
+2025,12,MEDICINA,Bacharelado,555,UNIVERSIDADE DE FORTALEZA,UNIFOR,Universidade,Privada sem fins lucrativos,93001,Educação Presencial,2304400,Fortaleza,CE,192,192,170,"0,885",4,SIM
+2025,12,MEDICINA,Bacharelado,494,UNIVERSIDADE DO SUL DE SANTA CATARINA,UNISUL,Universidade,Comunitária/Confessional,97679,Educação Presencial,4211900,Palhoça,SC,213,213,133,"0,624",3,SIM
+2025,12,MEDICINA,Bacharelado,664,UNIVERSIDADE VILA VELHA,UVV,Universidade,Privada com fins lucrativos,98406,Educação Presencial,3205200,Vila Velha,ES,194,192,149,"0,776",4,NÃO
+2025,12,MEDICINA,Bacharelado,1917,CENTRO UNIVERSITÁRIO MAURÍCIO DE NASSAU DE CACOAL,UNINASSAU,Centro Universitário,Privada com fins lucrativos,98409,Educação Presencial,1100049,Cacoal,RO,95,92,61,"0,663",3,NÃO
+2025,12,MEDICINA,Bacharelado,792,CENTRO UNIVERSITÁRIO DO ESTADO DO PARÁ,CESUPA,Centro Universitário,Privada sem fins lucrativos,98506,Educação Presencial,1501402,Belém,PA,154,152,120,"0,789",4,NÃO
+2025,12,MEDICINA,Bacharelado,4849,Afya Centro Universitário de Araguaína,Afya Araguaína,Centro Universitário,Privada com fins lucrativos,99476,Educação Presencial,1702109,Araguaína,TO,161,161,90,"0,559",2,NÃO
+2025,12,MEDICINA,Bacharelado,349,CENTRO UNIVERSITÁRIO DE BELO HORIZONTE,UNI-BH,Centro Universitário,Privada com fins lucrativos,100688,Educação Presencial,3106200,Belo Horizonte,MG,126,124,76,"0,613",3,NÃO
+2025,12,MEDICINA,Bacharelado,466,UNIVERSIDADE ANHEMBI MORUMBI,UAM,Universidade,Privada com fins lucrativos,100956,Educação Presencial,3550308,São Paulo,SP,280,277,127,"0,458",2,NÃO
+2025,12,MEDICINA,Bacharelado,737,CENTRO UNIVERSITÁRIO SÃO CAMILO,SAO CAMILO,Centro Universitário,Comunitária/Confessional,100958,Educação Presencial,3550308,São Paulo,SP,207,205,178,"0,868",4,SIM
+2025,12,MEDICINA,Bacharelado,38,UNIVERSIDADE DO ESTADO DO PARÁ,UEPA,Universidade,Pública Estadual,101228,Educação Presencial,1506807,Santarém,PA,43,43,28,"0,651",3,NÃO
+2025,12,MEDICINA,Bacharelado,6,UNIVERSIDADE FEDERAL DE OURO PRETO,UFOP,Universidade,Pública Federal,103596,Educação Presencial,3146107,Ouro Preto,MG,81,80,73,"0,913",5,NÃO
+2025,12,MEDICINA,Bacharelado,4256,Afya Centro Universitário de Montes Claros,Afya Montes Claros,Centro Universitário,Privada com fins lucrativos,107666,Educação Presencial,3143302,Montes Claros,MG,109,109,93,"0,853",4,NÃO
+2025,12,MEDICINA,Bacharelado,1128,UNIVERSIDADE DE ITAÚNA,UI,Universidade,Privada sem fins lucrativos,107766,Educação Presencial,3133808,Itaúna,MG,105,105,61,"0,581",2,SIM
+2025,12,MEDICINA,Bacharelado,3371,CENTRO UNIVERSITÁRIO DE PATOS DE MINAS,UNIPAM,Centro Universitário,Privada sem fins lucrativos,108014,Educação Presencial,3148004,Patos de Minas,MG,97,96,81,"0,844",4,NÃO
+2025,12,MEDICINA,Bacharelado,1336,CENTRO UNIVERSITÁRIO ASSIS GURGACZ,FAG,Centro Universitário,Privada sem fins lucrativos,108882,Educação Presencial,4104808,Cascavel,PR,162,161,125,"0,776",4,NÃO
+2025,12,MEDICINA,Bacharelado,384,Universidade Evangélica de Goiás,UniEVANGÉLICA,Universidade,Privada sem fins lucrativos,108884,Educação Presencial,5201108,Anápolis,GO,182,182,153,"0,841",4,SIM
+2025,12,MEDICINA,Bacharelado,3849,FUNDAÇÃO UNIVERSIDADE FEDERAL DO TOCANTINS,UFT,Universidade,Pública Federal,113504,Educação Presencial,1721000,Palmas,TO,37,35,28,"0,8",4,NÃO
+2025,12,MEDICINA,Bacharelado,107,UNIVERSIDADE FEDERAL DE SÃO JOÃO DEL REI,UFSJ,Universidade,Pública Federal,120983,Educação Presencial,3122306,Divinópolis,MG,44,44,36,"0,818",4,NÃO
+2025,12,MEDICINA,Bacharelado,586,UNIVERSIDADE FEDERAL DO RIO DE JANEIRO,UFRJ,Universidade,Pública Federal,121850,Educação Presencial,3302403,Macaé,RJ,79,53,42,"0,792",4,NÃO
+2025,12,MEDICINA,Bacharelado,730,UNIVERSIDADE ESTADUAL DE PONTA GROSSA,UEPG,Universidade,Pública Estadual,150039,Educação Presencial,4119905,Ponta Grossa,PR,40,40,37,"0,925",5,NÃO
+2025,12,MEDICINA,Bacharelado,3194,FACULDADE DE MINAS BH,FAMINAS-BH,Centro Universitário,Privada com fins lucrativos,1029204,Educação Presencial,3106200,Belo Horizonte,MG,225,225,129,"0,573",2,NÃO
+2025,12,MEDICINA,Bacharelado,830,UNIVERSIDADE FEDERAL DO AMAPÁ,UNIFAP,Universidade,Pública Federal,1029763,Educação Presencial,1600303,Macapá,AP,21,20,17,"0,85",4,NÃO
+2025,12,MEDICINA,Bacharelado,13040,Afya Faculdade de Ciências Médicas de Marabá,Afya Marabá,Faculdade,Privada com fins lucrativos,1050663,Educação Presencial,1504208,Marabá,PA,121,119,65,"0,546",2,NÃO
+2025,12,MEDICINA,Bacharelado,10,PONTIFÍCIA UNIVERSIDADE CATÓLICA DO PARANÁ,PUCPR,Universidade,Comunitária/Confessional,1059179,Educação Presencial,4113700,Londrina,PR,101,101,71,"0,703",3,SIM
+2025,12,MEDICINA,Bacharelado,8,UNIVERSIDADE FEDERAL DE VIÇOSA,UFV,Universidade,Pública Federal,1068548,Educação Presencial,3171303,Viçosa,MG,51,51,50,"0,98",5,NÃO
+2025,12,MEDICINA,Bacharelado,2564,UNIVERSIDADE FEDERAL DE CAMPINA GRANDE,UFCG,Universidade,Pública Federal,1101742,Educação Presencial,2503704,Cajazeiras,PB,37,35,28,"0,8",4,NÃO
+2025,12,MEDICINA,Bacharelado,513,UNIVERSIDADE VALE DO RIO DOCE,UNIVALE,Universidade,Privada sem fins lucrativos,1102360,Educação Presencial,3127701,Governador Valadares,MG,75,75,39,"0,52",2,NÃO
+2025,12,MEDICINA,Bacharelado,2158,Centro Universitário Santa Maria,Unifsm,Centro Universitário,Privada com fins lucrativos,1104264,Educação Presencial,2503704,Cajazeiras,PB,78,77,54,"0,701",3,NÃO
+2025,12,MEDICINA,Bacharelado,3,UNIVERSIDADE FEDERAL DE SERGIPE,UFS,Universidade,Pública Federal,1108153,Educação Presencial,2803500,Lagarto,SE,59,59,56,"0,949",5,NÃO
+2025,12,MEDICINA,Bacharelado,338,PONTIFÍCIA UNIVERSIDADE CATÓLICA DE MINAS GERAIS,PUC MINAS,Universidade,Comunitária/Confessional,1108281,Educação Presencial,3106705,Betim,MG,141,141,86,"0,61",3,NÃO
+2025,12,MEDICINA,Bacharelado,2835,CENTRO UNIVERSITÁRIO MAURÍCIO DE NASSAU,UNINASSAU,Centro Universitário,Privada com fins lucrativos,1108786,Educação Presencial,2611606,Recife,PE,291,287,130,"0,453",2,NÃO
+2025,12,MEDICINA,Bacharelado,14892,FACULDADE DE CIÊNCIAS DA SAÚDE DE BARRETOS DR. PAULO PRATA,FACISB,Faculdade,Privada com fins lucrativos,1109361,Educação Presencial,3505500,Barretos,SP,100,100,91,"0,91",5,NÃO
+2025,12,MEDICINA,Bacharelado,402,CENTRO UNIVERSITÁRIO DE BRASÍLIA,UNICEUB,Centro Universitário,Privada sem fins lucrativos,1135207,Educação Presencial,5300108,Brasília,DF,138,137,111,"0,81",4,NÃO
+2025,12,MEDICINA,Bacharelado,434,FACULDADE SANTA MARCELINA,FASM,Faculdade,Privada sem fins lucrativos,1136509,Educação Presencial,3550308,São Paulo,SP,187,185,107,"0,578",2,SIM
+2025,12,MEDICINA,Bacharelado,688,UNIVERSIDADE ESTADUAL DO SUDOESTE DA BAHIA,UESB,Universidade,Pública Estadual,1146605,Educação Presencial,2918001,Jequié,BA,25,24,18,"0,75",4,NÃO
+2025,12,MEDICINA,Bacharelado,1913,CENTRO UNIVERSITÁRIO FAMINAS,UNIFAMINAS,Centro Universitário,Privada com fins lucrativos,1163738,Educação Presencial,3143906,Muriaé,MG,130,129,77,"0,597",2,NÃO
+2025,12,MEDICINA,Bacharelado,12430,Centro Universitário FAMESC,UniFAMESC,Centro Universitário,Privada com fins lucrativos,1166567,Educação Presencial,3300605,Bom Jesus do Itabapoana,RJ,92,92,40,"0,435",2,NÃO
+2025,12,MEDICINA,Bacharelado,16879,Faculdade de Medicina de Olinda,FMO,Faculdade,Privada com fins lucrativos,1168313,Educação Presencial,2609600,Olinda,PE,174,167,80,"0,479",2,NÃO
+2025,12,MEDICINA,Bacharelado,4450,CENTRO UNIVERSITÁRIO METROPOLITANO DA AMAZÔNIA,UNIFAMAZ,Centro Universitário,Privada com fins lucrativos,1171609,Educação Presencial,1501402,Belém,PA,142,142,78,"0,549",2,NÃO
+2025,12,MEDICINA,Bacharelado,2111,CENTRO UNIVERSITÁRIO INTA,UNINTA,Centro Universitário,Comunitária/Confessional,1173014,Educação Presencial,2312908,Sobral,CE,196,194,119,"0,613",3,SIM
+2025,12,MEDICINA,Bacharelado,1883,CENTRO UNIVERSITÁRIO UNIME,UNIME,Centro Universitário,Privada com fins lucrativos,1178524,Educação Presencial,2919207,Lauro de Freitas,BA,141,141,78,"0,553",2,NÃO
+2025,12,MEDICINA,Bacharelado,3974,UNIVERSIDADE DE RIO VERDE,FESURV,Universidade,Pública Municipal,1178672,Educação Presencial,5218805,Rio Verde,GO,154,152,78,"0,513",2,NÃO
+2025,12,MEDICINA,Bacharelado,17498,Afya Faculdade de Ciências Médicas de Vitória da Conquista,Afya FCM VIC,Faculdade,Privada com fins lucrativos,1179189,Educação Presencial,2933307,Vitória da Conquista,BA,149,146,85,"0,582",2,NÃO
+2025,12,MEDICINA,Bacharelado,1041,UNIVERSIDADE DO VALE DO TAQUARI,UNIVATES,Universidade,Comunitária/Confessional,1179501,Educação Presencial,4311403,Lajeado,RS,82,81,47,"0,58",2,NÃO
+2025,12,MEDICINA,Bacharelado,17565, Afya Faculdade de Parnaíba, Afya Parnaíba,Faculdade,Privada com fins lucrativos,1180318,Educação Presencial,2207702,Parnaíba,PI,170,167,97,"0,581",2,NÃO
+2025,12,MEDICINA,Bacharelado,426,UNIVERSIDADE FRANCISCANA,UFN,Universidade,Comunitária/Confessional,1183313,Educação Presencial,4316907,Santa Maria,RS,81,80,58,"0,725",3,NÃO
+2025,12,MEDICINA,Bacharelado,409,UNIVERSIDADE DE PERNAMBUCO,UPE,Universidade,Pública Estadual,1183958,Educação Presencial,2606002,Garanhuns,PE,36,36,35,"0,972",5,NÃO
+2025,12,MEDICINA,Bacharelado,2368,FACULDADE SÃO LEOPOLDO MANDIC,,Faculdade,Privada com fins lucrativos,1184047,Educação Presencial,3509502,Campinas,SP,191,191,110,"0,576",2,NÃO
+2025,12,MEDICINA,Bacharelado,2058,FACULDADE METROPOLITANA,UNNESA,Faculdade,Privada com fins lucrativos,1184060,Educação Presencial,1100205,Porto Velho,RO,156,148,37,"0,25",1,NÃO
+2025,12,MEDICINA,Bacharelado,621,CENTRO UNIVERSITÁRIO CESMAC,CESMAC,Centro Universitário,Privada sem fins lucrativos,1184325,Educação Presencial,2704302,Maceió,AL,164,164,100,"0,61",3,NÃO
+2025,12,MEDICINA,Bacharelado,2571,Afya Centro Universitário de Itaperuna,Afya Itaperuna,Centro Universitário,Privada com fins lucrativos,1184432,Educação Presencial,3302205,Itaperuna,RJ,120,119,57,"0,479",2,NÃO
+2025,12,MEDICINA,Bacharelado,1599,Afya Centro Universitário de São João del-Rei,Afya SJ del-Rei,Centro Universitário,Privada com fins lucrativos,1185025,Educação Presencial,3162500,São João del Rei,MG,67,67,46,"0,687",3,NÃO
+2025,12,MEDICINA,Bacharelado,596,UNIVERSIDADE FEDERAL DOS VALES DO JEQUITINHONHA E MUCURI,UFVJM,Universidade,Pública Federal,1185076,Educação Presencial,3121605,Diamantina,MG,85,85,76,"0,894",4,NÃO
+2025,12,MEDICINA,Bacharelado,1270,CENTRO UNIVERSITÁRIO ESTÁCIO DE RIBEIRÃO PRETO,ESTÁCIO RIBEIRÃO PRE,Centro Universitário,Privada com fins lucrativos,1185903,Educação Presencial,3543402,Ribeirão Preto,SP,105,101,46,"0,455",2,NÃO
+2025,12,MEDICINA,Bacharelado,40,UNIVERSIDADE DO ESTADO DA BAHIA,UNEB,Universidade,Pública Estadual,1187646,Educação Presencial,2927408,Salvador,BA,64,64,50,"0,781",4,NÃO
+2025,12,MEDICINA,Bacharelado,2383,Faculdade Atitus Educação Passo Fundo,Atitus Educação,Faculdade,Privada com fins lucrativos,1188127,Educação Presencial,4314100,Passo Fundo,RS,112,111,45,"0,405",2,NÃO
+2025,12,MEDICINA,Bacharelado,719,Universidade do Estado de Mato Grosso Carlos Alberto Reyes Maldonado - UNEMAT,UNEMAT,Universidade,Pública Estadual,1188849,Educação Presencial,5102504,Cáceres,MT,61,60,38,"0,633",3,NÃO
+2025,12,MEDICINA,Bacharelado,4846,Centro Universitário Vértice,UNIVÉRTIX,Centro Universitário,Privada com fins lucrativos,1188900,Educação Presencial,3140902,Matipó,MG,135,135,68,"0,504",2,NÃO
+2025,12,MEDICINA,Bacharelado,2636,FACULDADE DINÂMICA DO VALE DO PIRANGA,FADIP,Faculdade,Privada com fins lucrativos,1189607,Educação Presencial,3152105,Ponte Nova,MG,45,45,23,"0,511",2,NÃO
+2025,12,MEDICINA,Bacharelado,580,UNIVERSIDADE FEDERAL DE PERNAMBUCO,UFPE,Universidade,Pública Federal,1189778,Educação Presencial,2604106,Caruaru,PE,80,79,66,"0,835",4,NÃO
+2025,12,MEDICINA,Bacharelado,1294,Centro Universitário das Américas,CAM,Centro Universitário,Privada com fins lucrativos,1190280,Educação Presencial,3550308,São Paulo,SP,148,141,46,"0,326",1,NÃO
+2025,12,MEDICINA,Bacharelado,1362,Centro Universitário Governador Ozanam Coelho,UNIFAGOC,Centro Universitário,Privada com fins lucrativos,1190621,Educação Presencial,3169901,Ubá,MG,77,77,66,"0,857",4,NÃO
+2025,12,MEDICINA,Bacharelado,352,CENTRO UNIVERSITÁRIO DE JOÃO PESSOA,UNIPÊ,Centro Universitário,Privada com fins lucrativos,1190667,Educação Presencial,2507507,João Pessoa,PB,138,137,78,"0,569",2,NÃO
+2025,12,MEDICINA,Bacharelado,3304,CENTRO UNIVERSITÁRIO DE PATOS,UNIFIP,Centro Universitário,Privada com fins lucrativos,1191415,Educação Presencial,2510808,Patos,PB,78,78,56,"0,718",3,NÃO
+2025,12,MEDICINA,Bacharelado,4431,FACULDADE DE ENFERMAGEM NOVA ESPERANÇA DE MOSSORÓ - FACENE/RN,FACENE/RN,Faculdade,Privada com fins lucrativos,1192047,Educação Presencial,2408003,Mossoró,RN,127,126,66,"0,524",2,NÃO
+2025,12,MEDICINA,Bacharelado,823,UNIVERSIDADE CEUMA,UNICEUMA,Universidade,Privada sem fins lucrativos,1192188,Educação Presencial,2105302,Imperatriz,MA,96,93,47,"0,505",2,NÃO
+2025,12,MEDICINA,Bacharelado,2787,FACULDADES PEQUENO PRÍNCIPE,FPP,Faculdade,Privada sem fins lucrativos,1192237,Educação Presencial,4106902,Curitiba,PR,93,92,88,"0,957",5,NÃO
+2025,12,MEDICINA,Bacharelado,1984,Centro Universitário Unifacig,,Centro Universitário,Privada com fins lucrativos,1193264,Educação Presencial,3139409,Manhuaçu,MG,48,47,25,"0,532",2,NÃO
+2025,12,MEDICINA,Bacharelado,2132,CENTRO UNIVERSITÁRIO UNINORTE,,Centro Universitário,Privada com fins lucrativos,1193275,Educação Presencial,1200401,Rio Branco,AC,113,110,,,,NÃO
+2025,12,MEDICINA,Bacharelado,15121,UNIVERSIDADE FEDERAL DA FRONTEIRA SUL,UFFS,Universidade,Pública Federal,1193759,Educação Presencial,4204202,Chapecó,SC,34,34,25,"0,735",3,NÃO
+2025,12,MEDICINA,Bacharelado,4530,Afya Centro Universitário de Maceió,Afya Maceió,Centro Universitário,Privada com fins lucrativos,1200578,Educação Presencial,2704302,Maceió,AL,134,134,84,"0,627",3,NÃO
+2025,12,MEDICINA,Bacharelado,11,UNIVERSIDADE CATÓLICA DE PERNAMBUCO,UNICAP,Universidade,Comunitária/Confessional,1200712,Educação Presencial,2611606,Recife,PE,118,118,85,"0,72",3,NÃO
+2025,12,MEDICINA,Bacharelado,569,UNIVERSIDADE FEDERAL DO PARÁ,UFPA,Universidade,Pública Federal,1202539,Educação Presencial,1500602,Altamira,PA,59,59,22,"0,373",1,NÃO
+2025,12,MEDICINA,Bacharelado,570,UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE,UFRN,Universidade,Pública Federal,1202546,Educação Presencial,2402006,Caicó,RN,40,40,36,"0,9",5,NÃO
+2025,12,MEDICINA,Bacharelado,4503,UNIVERSIDADE FEDERAL DO RECÔNCAVO DA BAHIA,UFRB,Universidade,Pública Federal,1202547,Educação Presencial,2928703,Santo Antônio de Jesus,BA,26,25,15,"0,6",3,NÃO
+2025,12,MEDICINA,Bacharelado,25277,UNIVERSIDADE FEDERAL DO DELTA DO PARNAIBA,UFDPAR,Universidade,Pública Federal,1202553,Educação Presencial,2207702,Parnaíba,PI,120,120,94,"0,783",4,NÃO
+2025,12,MEDICINA,Bacharelado,595,UNIVERSIDADE FEDERAL DE ALFENAS,UNIFAL-MG,Universidade,Pública Federal,1202573,Educação Presencial,3101607,Alfenas,MG,61,61,50,"0,82",4,NÃO
+2025,12,MEDICINA,Bacharelado,3984,FUNDAÇÃO UNIVERSIDADE FEDERAL DO VALE DO SÃO FRANCISCO,UNIVASF,Universidade,Pública Federal,1202588,Educação Presencial,2924009,Paulo Afonso,BA,37,37,36,"0,973",5,NÃO
+2025,12,MEDICINA,Bacharelado,609,UNIVERSIDADE ESTADUAL DO OESTE DO PARANÁ,UNIOESTE,Universidade,Pública Estadual,1214209,Educação Presencial,4108403,Francisco Beltrão,PR,42,42,35,"0,833",4,NÃO
+2025,12,MEDICINA,Bacharelado,107,UNIVERSIDADE FEDERAL DE SÃO JOÃO DEL REI,UFSJ,Universidade,Pública Federal,1216474,Educação Presencial,3162500,São João del Rei,MG,48,48,42,"0,875",4,NÃO
+2025,12,MEDICINA,Bacharelado,577,UNIVERSIDADE FEDERAL DE ALAGOAS,UFAL,Universidade,Pública Federal,1257524,Educação Presencial,2700300,Arapiraca,AL,89,88,73,"0,83",4,NÃO
+2025,12,MEDICINA,Bacharelado,2632,FACULDADES INTEGRADAS DO EXTREMO SUL DA BAHIA,UNESULBAHIA,Faculdade,Privada com fins lucrativos,1257548,Educação Presencial,2910727,Eunápolis,BA,40,40,20,"0,5",2,NÃO
+2025,12,MEDICINA,Bacharelado,548,UNIVERSIDADE FEDERAL DO MARANHÃO,UFMA,Universidade,Pública Federal,1257562,Educação Presencial,2105302,Imperatriz,MA,60,59,48,"0,814",4,NÃO
+2025,12,MEDICINA,Bacharelado,548,UNIVERSIDADE FEDERAL DO MARANHÃO,UFMA,Universidade,Pública Federal,1257777,Educação Presencial,2108603,Pinheiro,MA,87,84,48,"0,571",2,NÃO
+2025,12,MEDICINA,Bacharelado,2123,CENTRO UNIVERSITÁRIO MAX PLANCK,UniMAX,Centro Universitário,Privada com fins lucrativos,1258021,Educação Presencial,3520509,Indaiatuba,SP,81,81,55,"0,679",3,NÃO
+2025,12,MEDICINA,Bacharelado,1490,CENTRO UNIVERSITÁRIO DE JAGUARIÚNA,UniFAJ,Centro Universitário,Privada com fins lucrativos,1258023,Educação Presencial,3524709,Jaguariúna,SP,80,80,51,"0,638",3,NÃO
+2025,12,MEDICINA,Bacharelado,25352,Universidade Federal de Rondonópolis,UFR,Universidade,Pública Federal,1261971,Educação Presencial,5107602,Rondonópolis,MT,33,31,27,"0,871",4,NÃO
+2025,12,MEDICINA,Bacharelado,1,UNIVERSIDADE FEDERAL DE MATO GROSSO,UFMT,Universidade,Pública Federal,1261972,Educação Presencial,5107909,Sinop,MT,59,58,52,"0,897",4,NÃO
+2025,12,MEDICINA,Bacharelado,694,UNIVERSIDADE FEDERAL DE MATO GROSSO DO SUL,UFMS,Universidade,Pública Federal,1264844,Educação Presencial,5008305,Três Lagoas,MS,53,49,49,1,5,NÃO
+2025,12,MEDICINA,Bacharelado,592,UNIVERSIDADE FEDERAL DE LAVRAS,UFLA,Universidade,Pública Federal,1267038,Educação Presencial,3138203,Lavras,MG,66,64,55,"0,859",4,NÃO
+2025,12,MEDICINA,Bacharelado,38,UNIVERSIDADE DO ESTADO DO PARÁ,UEPA,Universidade,Pública Estadual,1272168,Educação Presencial,1504208,Marabá,PA,37,36,33,"0,917",5,NÃO
+2025,12,MEDICINA,Bacharelado,409,UNIVERSIDADE DE PERNAMBUCO,UPE,Universidade,Pública Estadual,1276878,Educação Presencial,2613909,Serra Talhada,PE,23,23,21,"0,913",5,NÃO
+2025,12,MEDICINA,Bacharelado,605,UNIVERSIDADE MUNICIPAL DE SÃO CAETANO DO SUL,USCS,Universidade,Especial,1278877,Educação Presencial,3548807,São Caetano do Sul,SP,127,127,96,"0,756",4,NÃO
+2025,12,MEDICINA,Bacharelado,596,UNIVERSIDADE FEDERAL DOS VALES DO JEQUITINHONHA E MUCURI,UFVJM,Universidade,Pública Federal,1292713,Educação Presencial,3168606,Teófilo Otoni,MG,63,56,47,"0,839",4,NÃO
+2025,12,MEDICINA,Bacharelado,18506,UNIVERSIDADE FEDERAL DO OESTE DA BAHIA,UFOB,Universidade,Pública Federal,1292725,Educação Presencial,2903201,Barreiras,BA,62,61,46,"0,754",4,NÃO
+2025,12,MEDICINA,Bacharelado,15001,UNIVERSIDADE FEDERAL DA INTEGRAÇÃO LATINO-AMERICANA,UNILA,Universidade,Pública Federal,1292726,Educação Presencial,4108304,Foz do Iguaçu,PR,56,55,30,"0,545",2,NÃO
+2025,12,MEDICINA,Bacharelado,25282,UNIVERSIDADE FEDERAL DE JATAÍ,UFJ,Universidade,Pública Federal,1292869,Educação Presencial,5211909,Jataí,GO,64,64,54,"0,844",4,NÃO
+2025,12,MEDICINA,Bacharelado,18812,UNIVERSIDADE FEDERAL DO SUL DA BAHIA,UFSB,Universidade,Pública Federal,1292917,Educação Presencial,2931350,Teixeira de Freitas,BA,105,105,61,"0,581",2,NÃO
+2025,12,MEDICINA,Bacharelado,217,CENTRO UNIVERSITÁRIO DAS FACULDADES ASSOCIADAS DE ENSINO - FAE,UNIFAE,Centro Universitário,Especial,1295813,Educação Presencial,3549102,São João da Boa Vista,SP,65,65,41,"0,631",3,NÃO
+2025,12,MEDICINA,Bacharelado,1028,UNIVERSIDADE ESTADUAL DE MATO GROSSO DO SUL,UEMS,Universidade,Pública Estadual,1313341,Educação Presencial,5002704,Campo Grande,MS,35,35,27,"0,771",4,NÃO
+2025,12,MEDICINA,Bacharelado,60,CENTRO UNIVERSITÁRIO MUNICIPAL DE FRANCA,UNI-FACEF,Centro Universitário,Especial,1314146,Educação Presencial,3516200,Franca,SP,68,67,64,"0,955",5,NÃO
+2025,12,MEDICINA,Bacharelado,790,Faculdade Israelita de Ciências da Saúde Albert Einstein,FICSAE,Faculdade,Privada sem fins lucrativos,1317634,Educação Presencial,3550308,São Paulo,SP,119,118,107,"0,907",5,NÃO
+2025,12,MEDICINA,Bacharelado,3974,UNIVERSIDADE DE RIO VERDE,FESURV,Universidade,Pública Municipal,1321864,Educação Presencial,5201405,Aparecida de Goiânia,GO,156,151,79,"0,523",2,NÃO
+2025,12,MEDICINA,Bacharelado,1292,Centro Universitário de Adamantina,FAI,Centro Universitário,Especial,1322329,Educação Presencial,3500105,Adamantina,SP,106,106,29,"0,274",1,NÃO
+2025,12,MEDICINA,Bacharelado,29118,Universidade Federal do Norte do Tocantins,UFNT,Universidade,Pública Federal,1327450,Educação Presencial,1702109,Araguaína,TO,43,43,34,"0,791",4,NÃO
+2025,12,MEDICINA,Bacharelado,4396,CENTRO UNIVERSITÁRIO DE MINEIROS,UNIFIMES,Centro Universitário,Especial,1330031,Educação Presencial,5213103,Mineiros,GO,92,91,51,"0,56",2,NÃO
+2025,12,MEDICINA,Bacharelado,1036,UNIVERSIDADE DO ESTADO DE MINAS GERAIS,UEMG,Universidade,Pública Estadual,1334344,Educação Presencial,3147907,Passos,MG,69,69,51,"0,739",3,NÃO
+2025,12,MEDICINA,Bacharelado,5322,FUNDAÇÃO UNIVERSIDADE FEDERAL DO PAMPA - UNIPAMPA,UNIPAMPA,Universidade,Pública Federal,1342449,Educação Presencial,4322400,Uruguaiana,RS,69,69,48,"0,696",3,NÃO
+2025,12,MEDICINA,Bacharelado,578,UNIVERSIDADE FEDERAL DA BAHIA,UFBA,Universidade,Pública Federal,1342505,Educação Presencial,2933307,Vitória da Conquista,BA,38,38,37,"0,974",5,NÃO
+2025,12,MEDICINA,Bacharelado,3974,UNIVERSIDADE DE RIO VERDE,FESURV,Universidade,Pública Municipal,1342536,Educação Presencial,5208608,Goianésia,GO,157,154,43,"0,279",1,NÃO
+2025,12,MEDICINA,Bacharelado,589,UNIVERSIDADE FEDERAL RURAL DO SEMI-ÁRIDO,UFERSA,Universidade,Pública Federal,1342537,Educação Presencial,2408003,Mossoró,RN,37,37,33,"0,892",4,NÃO
+2025,12,MEDICINA,Bacharelado,5,UNIVERSIDADE FEDERAL DO PIAUÍ,UFPI,Universidade,Pública Federal,1342610,Educação Presencial,2208007,Picos,PI,25,21,16,"0,762",4,NÃO
+2025,12,MEDICINA,Bacharelado,605,UNIVERSIDADE MUNICIPAL DE SÃO CAETANO DO SUL,USCS,Universidade,Especial,1349675,Educação Presencial,3550308,São Paulo,SP,129,129,83,"0,643",3,NÃO
+2025,12,MEDICINA,Bacharelado,17887,Faculdade de Ciências Médicas de São José dos Campos,,Faculdade,Privada com fins lucrativos,1363536,Educação Presencial,3549904,São José dos Campos,SP,101,101,80,"0,792",4,NÃO
+2025,12,MEDICINA,Bacharelado,80,CENTRO UNIVERSITÁRIO PARA O DESENVOLVIMENTO DO ALTO VALE DO ITAJAÍ,UNIDAVI,Centro Universitário,Comunitária/Confessional,1385521,Educação Presencial,4214805,Rio do Sul,SC,61,61,50,"0,82",4,SIM
+2025,12,MEDICINA,Bacharelado,2147,Centro Universitário CEUNI - FAMETRO,CEUNI-FAMETRO,Centro Universitário,Privada com fins lucrativos,1385538,Educação Presencial,1302603,Manaus,AM,222,216,84,"0,389",1,NÃO
+2025,12,MEDICINA,Bacharelado,1519,CENTRO UNIVERSITÁRIO DE PATO BRANCO,UNIDEP,Centro Universitário,Privada com fins lucrativos,1390309,Educação Presencial,4118501,Pato Branco,PR,148,146,104,"0,712",3,NÃO
+2025,12,MEDICINA,Bacharelado,22096,FACULDADE SÃO LEOPOLDO MANDIC DE ARARAS,SLMANDIC-ARARAS,Faculdade,Privada com fins lucrativos,1390311,Educação Presencial,3503307,Araras,SP,83,83,33,"0,398",1,NÃO
+2025,12,MEDICINA,Bacharelado,316,UNIVERSIDADE NOVE DE JULHO,UNINOVE,Universidade,Privada sem fins lucrativos,1390317,Educação Presencial,3548708,São Bernardo do Campo,SP,175,174,96,"0,552",2,NÃO
+2025,12,MEDICINA,Bacharelado,316,UNIVERSIDADE NOVE DE JULHO,UNINOVE,Universidade,Privada sem fins lucrativos,1397771,Educação Presencial,3534401,Osasco,SP,155,154,86,"0,558",2,NÃO
+2025,12,MEDICINA,Bacharelado,316,UNIVERSIDADE NOVE DE JULHO,UNINOVE,Universidade,Privada sem fins lucrativos,1397772,Educação Presencial,3518800,Guarulhos,SP,143,142,98,"0,69",3,NÃO
+2025,12,MEDICINA,Bacharelado,14,UNIVERSIDADE DO VALE DO RIO DOS SINOS,UNISINOS,Universidade,Comunitária/Confessional,1397773,Educação Presencial,4318705,São Leopoldo,RS,95,94,64,"0,681",3,NÃO
+2025,12,MEDICINA,Bacharelado,441,UNIVERSIDADE DO CONTESTADO,UNC,Universidade,Especial,1399287,Educação Presencial,4210100,Mafra,SC,43,43,15,"0,349",1,NÃO
+2025,12,MEDICINA,Bacharelado,466,UNIVERSIDADE ANHEMBI MORUMBI,UAM,Universidade,Privada com fins lucrativos,1399477,Educação Presencial,3538709,Piracicaba,SP,116,113,59,"0,522",2,NÃO
+2025,12,MEDICINA,Bacharelado,316,UNIVERSIDADE NOVE DE JULHO,UNINOVE,Universidade,Privada sem fins lucrativos,1399478,Educação Presencial,3506003,Bauru,SP,181,180,118,"0,656",3,NÃO
+2025,12,MEDICINA,Bacharelado,316,UNIVERSIDADE NOVE DE JULHO,UNINOVE,Universidade,Privada sem fins lucrativos,1399479,Educação Presencial,3529401,Mauá,SP,96,95,67,"0,705",3,NÃO
+2025,12,MEDICINA,Bacharelado,1078,CENTRO UNIVERSITÁRIO INTEGRADO DE CAMPO MOURÃO,INTEGRADO,Centro Universitário,Privada com fins lucrativos,1399480,Educação Presencial,4104303,Campo Mourão,PR,131,129,83,"0,643",3,NÃO
+2025,12,MEDICINA,Bacharelado,437,UNIVERSIDADE PARANAENSE,UNIPAR,Universidade,Privada com fins lucrativos,1399481,Educação Presencial,4128104,Umuarama,PR,134,133,65,"0,489",2,NÃO
+2025,12,MEDICINA,Bacharelado,163,UNIVERSIDADE ESTÁCIO DE SÁ,UNESA,Universidade,Privada com fins lucrativos,1399482,Educação Presencial,3300100,Angra dos Reis,RJ,81,80,17,"0,213",1,NÃO
+2025,12,MEDICINA,Bacharelado,1854,CLARETIANO - CENTRO UNIVERSITÁRIO,,Centro Universitário,Comunitária/Confessional,1399483,Educação Presencial,3543907,Rio Claro,SP,47,47,33,"0,702",3,SIM
+2025,12,MEDICINA,Bacharelado,5511,CENTRO UNIVERSITÁRIO CAMPO REAL,,Centro Universitário,Privada com fins lucrativos,1399484,Educação Presencial,4109401,Guarapuava,PR,56,56,43,"0,768",4,NÃO
+2025,12,MEDICINA,Bacharelado,423,UNIVERSIDADE REGIONAL INTEGRADA DO ALTO URUGUAI E DAS MISSÕES,URI,Universidade,Comunitária/Confessional,1399485,Educação Presencial,4307005,Erechim,RS,54,54,42,"0,778",4,SIM
+2025,12,MEDICINA,Bacharelado,4522,CENTRO UNIVERSITÁRIO CATÓLICO SALESIANO AUXILIUM,UNISALESIANO,Centro Universitário,Privada sem fins lucrativos,1399486,Educação Presencial,3502804,Araçatuba,SP,118,116,80,"0,69",3,SIM
+2025,12,MEDICINA,Bacharelado,23,UNIVERSIDADE FEEVALE,FEEVALE,Universidade,Comunitária/Confessional,1399487,Educação Presencial,4313409,Novo Hamburgo,RS,83,83,61,"0,735",3,SIM
+2025,12,MEDICINA,Bacharelado,338,PONTIFÍCIA UNIVERSIDADE CATÓLICA DE MINAS GERAIS,PUC MINAS,Universidade,Comunitária/Confessional,1399488,Educação Presencial,3118601,Contagem,MG,54,54,41,"0,759",4,NÃO
+2025,12,MEDICINA,Bacharelado,338,PONTIFÍCIA UNIVERSIDADE CATÓLICA DE MINAS GERAIS,PUC MINAS,Universidade,Comunitária/Confessional,1399489,Educação Presencial,3151800,Poços de Caldas,MG,59,59,41,"0,695",3,NÃO
+2025,12,MEDICINA,Bacharelado,22076,Faculdade Estácio de Alagoinhas,,Faculdade,Privada com fins lucrativos,1399614,Educação Presencial,2900702,Alagoinhas,BA,101,101,50,"0,495",2,NÃO
+2025,12,MEDICINA,Bacharelado,22093,Faculdade AGES de Medicina,Faculdade AGES,Faculdade,Privada com fins lucrativos,1399615,Educação Presencial,2917508,Jacobina,BA,73,73,37,"0,507",2,NÃO
+2025,12,MEDICINA,Bacharelado,22088,Afya Faculdade de Ciências Médicas de Itabuna,AFYA ITABUNA,Faculdade,Privada com fins lucrativos,1399616,Educação Presencial,2914802,Itabuna,BA,116,114,66,"0,579",2,NÃO
+2025,12,MEDICINA,Bacharelado,22194,FACULDADE ATENAS SETE LAGOAS,,Faculdade,Privada com fins lucrativos,1399617,Educação Presencial,3167202,Sete Lagoas,MG,87,86,50,"0,581",2,NÃO
+2025,12,MEDICINA,Bacharelado,22202,Faculdade Estácio de Juazeiro,EstácioJuazeiro,Faculdade,Privada com fins lucrativos,1399618,Educação Presencial,2918407,Juazeiro,BA,195,192,90,"0,469",2,NÃO
+2025,12,MEDICINA,Bacharelado,22059,Faculdade Pitágoras de Medicina de Eunápolis,,Faculdade,Privada com fins lucrativos,1399619,Educação Presencial,2910727,Eunápolis,BA,48,48,24,"0,5",2,NÃO
+2025,12,MEDICINA,Bacharelado,55,UNIVERSIDADE DE SÃO PAULO,USP,Universidade,Pública Estadual,1404416,Educação Presencial,3506003,Bauru,SP,55,55,50,"0,909",5,NÃO
+2025,12,MEDICINA,Bacharelado,25274,UNIVERSIDADE FEDERAL DE CATALÃO,UFCAT,Universidade,Pública Federal,1406536,Educação Presencial,5205109,Catalão,GO,64,60,47,"0,783",4,NÃO
+2025,12,MEDICINA,Bacharelado,466,UNIVERSIDADE ANHEMBI MORUMBI,UAM,Universidade,Privada com fins lucrativos,1408259,Educação Presencial,3549904,São José dos Campos,SP,157,153,82,"0,536",2,NÃO
+2025,12,MEDICINA,Bacharelado,271,UNIVERSIDADE DO OESTE PAULISTA,UNOESTE,Universidade,Privada sem fins lucrativos,1408261,Educação Presencial,3518701,Guarujá,SP,59,59,38,"0,644",3,NÃO
+2025,12,MEDICINA,Bacharelado,271,UNIVERSIDADE DO OESTE PAULISTA,UNOESTE,Universidade,Privada sem fins lucrativos,1408262,Educação Presencial,3525300,Jaú,SP,66,66,51,"0,773",4,NÃO
+2025,12,MEDICINA,Bacharelado,22121,Faculdade de Ciências Médicas de Três Rios,FCM/TR,Faculdade,Privada com fins lucrativos,1408504,Educação Presencial,3306008,Três Rios,RJ,64,63,47,"0,746",3,NÃO
+2025,12,MEDICINA,Bacharelado,22514,Afya Faculdade de Ciências Médicas de Jaboatão dos Guararapes,AFYA JABOATÃO,Faculdade,Privada com fins lucrativos,1408505,Educação Presencial,2607901,Jaboatão dos Guararapes,PE,157,154,73,"0,474",2,NÃO
+2025,12,MEDICINA,Bacharelado,22197,FACULDADE ATENAS PASSOS,,Faculdade,Privada com fins lucrativos,1408507,Educação Presencial,3147907,Passos,MG,146,145,63,"0,434",2,NÃO
+2025,12,MEDICINA,Bacharelado,22191,Faculdade Estácio de Jaraguá do Sul,Estácio Jaraguá,Faculdade,Privada com fins lucrativos,1408508,Educação Presencial,4208906,Jaraguá do Sul,SC,71,69,23,"0,333",1,NÃO
+2025,12,MEDICINA,Bacharelado,22104,Afya Faculdade de Ciências Médicas de Guanambi,Afya Guanambi,Faculdade,Privada com fins lucrativos,1408509,Educação Presencial,2911709,Guanambi,BA,58,58,39,"0,672",3,NÃO
+2025,12,MEDICINA,Bacharelado,1113,CENTRO UNIVERSITÁRIO EURO-AMERICANO,UNIEURO,Centro Universitário,Privada com fins lucrativos,1419799,Educação Presencial,5300108,Brasília,DF,94,92,60,"0,652",3,NÃO
+2025,12,MEDICINA,Bacharelado,2918,Afya Faculdade de Redenção,Afya Redenção,Faculdade,Privada com fins lucrativos,1421013,Educação Presencial,1506138,Redenção,PA,120,117,77,"0,658",3,NÃO
+2025,12,MEDICINA,Bacharelado,4396,CENTRO UNIVERSITÁRIO DE MINEIROS,UNIFIMES,Centro Universitário,Especial,1421100,Educação Presencial,5221403,Trindade,GO,81,79,45,"0,57",2,NÃO
+2025,12,MEDICINA,Bacharelado,15032,UNIVERSIDADE ALTO VALE DO RIO DO PEIXE,UNIARP,Universidade,Privada sem fins lucrativos,1427370,Educação Presencial,4203006,Caçador,SC,115,115,84,"0,73",3,SIM
+2025,12,MEDICINA,Bacharelado,208,UNIVERSIDADE DE RIBEIRÃO PRETO,UNAERP,Universidade,Privada sem fins lucrativos,1427419,Educação Presencial,3518701,Guarujá,SP,108,106,43,"0,406",2,SIM
+2025,12,MEDICINA,Bacharelado,11645,FACULDADE UNINASSAU VILHENA,,Faculdade,Privada com fins lucrativos,1427420,Educação Presencial,1100304,Vilhena,RO,51,51,21,"0,412",2,NÃO
+2025,12,MEDICINA,Bacharelado,23318,FACULDADE BRASILEIRA DE CACHOEIRO,,Faculdade,Privada com fins lucrativos,1438629,Educação Presencial,3201209,Cachoeiro de Itapemirim,ES,110,109,71,"0,651",3,NÃO
+2025,12,MEDICINA,Bacharelado,824,CENTRO UNIVERSITÁRIO DE GOIATUBA,UNICERRADO,Centro Universitário,Especial,1445016,Educação Presencial,5209101,Goiatuba,GO,133,130,51,"0,392",1,NÃO
+2025,12,MEDICINA,Bacharelado,1126,UNIVERSIDADE ESTADUAL DO CENTRO OESTE,UNICENTRO,Universidade,Pública Estadual,1448710,Educação Presencial,4109401,Guarapuava,PR,40,40,39,"0,975",5,NÃO
+2025,12,MEDICINA,Bacharelado,68,FACULDADE DE FILOSOFIA CIÊNCIAS E LETRAS DE PENÁPOLIS,FAFIPE,Faculdade,Privada sem fins lucrativos,1453564,Educação Presencial,3537305,Penápolis,SP,58,58,26,"0,448",2,NÃO
+2025,12,MEDICINA,Bacharelado,203,UNIVERSIDADE SÃO JUDAS TADEU,USJT,Universidade,Privada com fins lucrativos,1455021,Educação Presencial,3513504,Cubatão,SP,56,55,33,"0,6",3,NÃO
+2025,12,MEDICINA,Bacharelado,5077,UNIVERSIDADE ESTADUAL DE RORAIMA,UERR,Universidade,Pública Estadual,1457006,Educação Presencial,1400100,Boa Vista,RR,29,29,15,"0,517",2,NÃO
+2025,12,MEDICINA,Bacharelado,532,UNIVERSIDADE REGIONAL DO NOROESTE DO ESTADO DO RIO GRANDE DO SUL,UNIJUI,Universidade,Comunitária/Confessional,1457503,Educação Presencial,4310207,Ijuí,RS,51,51,38,"0,745",3,SIM
+2025,12,MEDICINA,Bacharelado,2961,Centro Universitário Estácio do Pantanal,Unipantanal,Centro Universitário,Privada com fins lucrativos,1457707,Educação Presencial,5102504,Cáceres,MT,27,26,4,"0,154",1,NÃO
+2025,12,MEDICINA,Bacharelado,47,UNIVERSIDADE ESTADUAL DE GOIÁS,UEG,Universidade,Pública Estadual,1458090,Educação Presencial,5211503,Itumbiara,GO,18,18,16,"0,889",4,NÃO
+2025,12,MEDICINA,Bacharelado,23454,Faculdade Zarns - Itumbiara,,Faculdade,Privada com fins lucrativos,1465625,Educação Presencial,5211503,Itumbiara,GO,119,119,41,"0,345",1,NÃO
+2025,12,MEDICINA,Bacharelado,3974,UNIVERSIDADE DE RIO VERDE,FESURV,Universidade,Pública Municipal,1477973,Educação Presencial,5208004,Formosa,GO,148,146,43,"0,295",1,NÃO
+2025,12,MEDICINA,Bacharelado,24443,Faculdade AGES de Medicina de Irecê,Faculdade AGES,Faculdade,Privada com fins lucrativos,1483759,Educação Presencial,2914604,Irecê,BA,43,43,24,"0,558",2,NÃO
+2025,12,MEDICINA,Bacharelado,398,UNIVERSIDADE TIRADENTES,UNIT,Universidade,Privada com fins lucrativos,1483768,Educação Presencial,2802106,Estância,SE,46,46,38,"0,826",4,NÃO
+2025,12,MEDICINA,Bacharelado,1356,CENTRO UNIVERSITÁRIO DE SANTA FÉ DO SUL,UNIFUNEC,Centro Universitário,Especial,1483773,Educação Presencial,3546603,Santa Fé do Sul,SP,59,59,27,"0,458",2,NÃO
+2025,12,MEDICINA,Bacharelado,24470,Faculdade de Medicina do Sertão,FMS,Faculdade,Privada com fins lucrativos,1483805,Educação Presencial,2601201,Arcoverde,PE,25,25,18,"0,72",3,NÃO
+2025,12,MEDICINA,Bacharelado,24488,Faculdade UNICESUMAR de Corumbá,,Faculdade,Privada com fins lucrativos,1485621,Educação Presencial,5003207,Corumbá,MS,58,57,27,"0,474",2,NÃO
+2025,12,MEDICINA,Bacharelado,23410,UNIVERSIDADE ESTADUAL DA REGIÃO TOCANTINA DO MARANHÃO,UEMASUL,Universidade,Pública Estadual,1486298,Educação Presencial,2105302,Imperatriz,MA,35,35,22,"0,629",3,NÃO
+2025,12,MEDICINA,Bacharelado,24509,FACULDADE ESTÁCIO DE CANINDÉ,ESTÁCIO CANINDÉ,Faculdade,Privada com fins lucrativos,1486822,Educação Presencial,2302800,Canindé,CE,42,42,18,"0,429",2,NÃO
+2025,12,MEDICINA,Bacharelado,24550,AFYA FACULDADE DE CIÊNCIAS MÉDICAS DE SANTA INÊS,AFYA SANTA INÊS,Faculdade,Privada com fins lucrativos,1487290,Educação Presencial,2109908,Santa Inês,MA,41,41,17,"0,415",2,NÃO
+2025,12,MEDICINA,Bacharelado,1420,FACULDADES DE DRACENA,,Faculdade,Privada sem fins lucrativos,1487491,Educação Presencial,3514403,Dracena,SP,57,57,15,"0,263",1,NÃO
+2025,12,MEDICINA,Bacharelado,1876,FACULDADE MUNICIPAL PROFESSOR FRANCO MONTORO DE MOGI GUAÇU,FMPFM,Faculdade,Pública Municipal,1518495,Educação Presencial,3530706,Mogi Guaçu,SP,55,55,18,"0,327",1,NÃO
+2025,12,MEDICINA,Bacharelado,398,UNIVERSIDADE TIRADENTES,UNIT,Universidade,Privada com fins lucrativos,5000001,Educação Presencial,2800308,Aracaju,SE,157,154,102,"0,662",3,NÃO
+2025,12,MEDICINA,Bacharelado,16728,AFYA Faculdade de Ciências Médicas de Palmas,AFYA PALMAS,Faculdade,Privada com fins lucrativos,5000812,Educação Presencial,1721000,Palmas,TO,185,182,130,"0,714",3,NÃO
+2025,12,MEDICINA,Bacharelado,55,UNIVERSIDADE DE SÃO PAULO,USP,Universidade,Pública Estadual,5000841,Educação Presencial,3543402,Ribeirão Preto,SP,96,95,93,"0,979",5,NÃO
+2025,12,MEDICINA,Bacharelado,1196,UNIVERSIDADE CESUMAR,UNICESUMAR,Universidade,Privada com fins lucrativos,5000930,Educação Presencial,4115200,Maringá,PR,309,308,238,"0,773",4,NÃO
+2025,12,MEDICINA,Bacharelado,1430,CENTRO UNIVERSITÁRIO INGÁ,UNINGÁ,Centro Universitário,Privada com fins lucrativos,5000931,Educação Presencial,4115200,Maringá,PR,91,89,40,"0,449",2,NÃO
+2025,12,MEDICINA,Bacharelado,496,UNIVERSIDADE DE FRANCA,UNIFRAN,Universidade,Privada com fins lucrativos,5000933,Educação Presencial,3516200,Franca,SP,79,79,70,"0,886",4,NÃO
+2025,12,MEDICINA,Bacharelado,222,CENTRO UNIVERSITÁRIO DE VOTUPORANGA,UNIFEV,Centro Universitário,Comunitária/Confessional,5000978,Educação Presencial,3557105,Votuporanga,SP,59,59,49,"0,831",4,NÃO
+2025,12,MEDICINA,Bacharelado,385,UNIVERSIDADE SALVADOR,UNIFACS,Universidade,Privada com fins lucrativos,5000979,Educação Presencial,2927408,Salvador,BA,355,350,218,"0,623",3,NÃO
+2025,12,MEDICINA,Bacharelado,1046,UNIÃO DAS FACULDADES DOS GRANDES LAGOS,UNILAGO,Faculdade,Privada sem fins lucrativos,5000980,Educação Presencial,3549805,São José do Rio Preto,SP,166,160,45,"0,281",1,NÃO
+2025,12,MEDICINA,Bacharelado,3533,FACULDADE CERES,FACERES,Faculdade,Privada com fins lucrativos,5000981,Educação Presencial,3549805,São José do Rio Preto,SP,124,105,71,"0,676",3,NÃO
+2025,12,MEDICINA,Bacharelado,794,CENTRO UNIVERSITÁRIO DE VÁRZEA GRANDE,UNIVAG,Centro Universitário,Privada sem fins lucrativos,5001033,Educação Presencial,5108402,Várzea Grande,MT,124,123,85,"0,691",3,NÃO
+2025,12,MEDICINA,Bacharelado,15121,UNIVERSIDADE FEDERAL DA FRONTEIRA SUL,UFFS,Universidade,Pública Federal,5001101,Educação Presencial,4314100,Passo Fundo,RS,59,59,50,"0,847",4,NÃO
+2025,12,MEDICINA,Bacharelado,576,UNIVERSIDADE FEDERAL DE JUIZ DE FORA,UFJF,Universidade,Pública Federal,5001167,Educação Presencial,3127701,Governador Valadares,MG,41,41,39,"0,951",5,NÃO
+2025,12,MEDICINA,Bacharelado,163,UNIVERSIDADE ESTÁCIO DE SÁ,UNESA,Universidade,Privada com fins lucrativos,5001183,Educação Presencial,3304557,Rio de Janeiro,RJ,182,180,123,"0,683",3,NÃO
+2025,12,MEDICINA,Bacharelado,1573,CENTRO UNIVERSITÁRIO ALFREDO NASSER,UNIFAN,Centro Universitário,Privada com fins lucrativos,5001294,Educação Presencial,5201405,Aparecida de Goiânia,GO,250,214,56,"0,262",1,NÃO
+2025,12,MEDICINA,Bacharelado,4198,Faculdade Morgana Potrich,FAMP,Faculdade,Privada com fins lucrativos,5001300,Educação Presencial,5213103,Mineiros,GO,118,118,49,"0,415",2,NÃO
+2025,12,MEDICINA,Bacharelado,2023,Centro Universitário FG,UNIFG,Centro Universitário,Privada com fins lucrativos,5001314,Educação Presencial,2911709,Guanambi,BA,56,56,43,"0,768",4,NÃO
+2025,12,MEDICINA,Bacharelado,1227,CENTRO UNIVERSITÁRIO MAURÍCIO DE NASSAU DE BARREIRAS,UNINASSAU,Centro Universitário,Privada sem fins lucrativos,5001341,Educação Presencial,2903201,Barreiras,BA,80,80,35,"0,438",2,NÃO
+2025,12,MEDICINA,Bacharelado,4,UNIVERSIDADE FEDERAL DO AMAZONAS,UFAM,Universidade,Pública Federal,5001406,Educação Presencial,1301209,Coari,AM,1,1,,,SC,NÃO
+2025,12,MEDICINA,Bacharelado,585,UNIVERSIDADE FEDERAL DE SANTA CATARINA,UFSC,Universidade,Pública Federal,5001427,Educação Presencial,4201406,Araranguá,SC,34,34,25,"0,735",3,NÃO
+2025,12,MEDICINA,Bacharelado,87,CENTRO UNIVERSITÁRIO DE BRUSQUE,UNIFEBE,Centro Universitário,Privada sem fins lucrativos,5001450,Educação Presencial,4202909,Brusque,SC,74,74,53,"0,716",3,NÃO
+2025,12,MEDICINA,Bacharelado,571,UNIVERSIDADE FEDERAL DO PARANÁ,UFPR,Universidade,Pública Federal,5001466,Educação Presencial,4127700,Toledo,PR,85,82,77,"0,939",5,NÃO
+,,,,,,,,,,,,,,,,,,,
+* Nome e Sigla da IES atualizados na data da divulgação do indicador. As outras informações referentes ao curso e à IES  são divulgados considerando o status do dado no momento da inscrição no Enade.,,,,,,,,,,,,,,,,,,,
+** A fonte de dados utilizada para a categoria administrativa das IES corresponde ao Cadastro eMEC.,,,,,,,,,,,,,,,,,,,

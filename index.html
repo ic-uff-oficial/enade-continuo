@@ -63,6 +63,10 @@
 
 <p>O valor de CPC M/D se refere ao Conceito Preliminar de Curso (CPC) colunas "Nota Padronizada - Mestres" e "Nota Padronizada - Doutores".</a></p>
 
+<p>Os valores de PDB/PCP são índices de Proficiência entre 0 e 1, que se aplicam a Licenciaturas e Medicina, após 2025,
+nas colunas "Percentual de Concluintes Igual ou Acima do Padrão 1 de Proficiência" (PDBck - <a href="https://abmes.org.br/arquivos/legislacoes/nota_tecnica_n_8_conceito_enade_para_os_cursos_de_licenciatura-2026.pdf">NOTA TÉCNICA Nº 8/2026/CEI/CGGI/DAES-INEP Licenciaturas</a>) 
+e "Percentual Concluintes Acima do Padrão" (PCPc - <a href="https://abmes.org.br/arquivos/legislacoes/no_pdf_nota_tecnica_1765576010-1-1.pdf">NOTA TÉCNICA Nº 40/2025/CEI/CGGI/DAES-INEP Medicina</a>).</p>
+
 <p>Esse site é de código-aberto e oferecido como site estático hospedado no github pages (não coleta nenhum dado!)</p>
 
 <p>Para contribuir, visite o repositório: <a href="https://github.com/ic-uff-oficial/enade-continuo">https://github.com/ic-uff-oficial/enade-continuo</a></p>
@@ -92,7 +96,9 @@
     const d2021 = await carregarCSV("conceito_enade_2021.csv");
     const d2022 = await carregarCSV("conceito_enade_2022.csv");
     const d2023 = await carregarCSV("conceito_enade_2023.csv");
-    dados = d2019.concat(d2021).concat(d2022).concat(d2023);
+    const d2025_lic = await carregarCSV("conceito_enade_licenciaturas_2025.csv");
+    const d2025_med = await carregarCSV("conceito_enade_medicina_2025.csv");
+    dados = d2019.concat(d2021).concat(d2022).concat(d2023).concat(d2025_lic).concat(d2025_med);
     console.log(`Carregados ${dados.length} registros do ENADE.`);
     const igc2021 = await carregarCSV("IGC_2021.csv");
     const igc2022 = await carregarCSV("IGC_2022.csv");
@@ -135,11 +141,13 @@
     const univ = document.getElementById('universidade').value.toLowerCase();
     const curso = document.getElementById('curso').value.toLowerCase();
 
-    const filtradoENADE = dados.filter(l => 
+   const filtradoENADE = dados.filter(l => 
     (!univ || (
       (l["Nome da IES*"] && l["Nome da IES*"].toLowerCase().includes(univ)) ||
-      (l["Sigla da IES*"] && l["Sigla da IES*"].toLowerCase().includes(univ)) ||
+      (l["Nome da IES¹"] && l["Nome da IES¹"].toLowerCase().includes(univ)) ||
       (l["Nome da IES"] && l["Nome da IES"].toLowerCase().includes(univ)) ||
+      (l["Sigla da IES*"] && l["Sigla da IES*"].toLowerCase().includes(univ)) ||
+      (l["Sigla da IES ¹"] && l["Sigla da IES ¹"].toLowerCase().includes(univ)) ||
       (l["Sigla da IES"] && l["Sigla da IES"].toLowerCase().includes(univ))
     )) &&
       (!curso || (l["Área de Avaliação"] && l["Área de Avaliação"].toLowerCase().includes(curso)))
@@ -148,8 +156,10 @@
     const filtradoIGC = dadosIGC.filter(l => 
     (!univ || (
       (l["Nome da IES*"] && l["Nome da IES*"].toLowerCase().includes(univ)) ||
-      (l["Sigla da IES*"] && l["Sigla da IES*"].toLowerCase().includes(univ)) ||
+      (l["Nome da IES¹"] && l["Nome da IES¹"].toLowerCase().includes(univ)) ||
       (l["Nome da IES"] && l["Nome da IES"].toLowerCase().includes(univ)) ||
+      (l["Sigla da IES*"] && l["Sigla da IES*"].toLowerCase().includes(univ)) ||
+      (l["Sigla da IES ¹"] && l["Sigla da IES ¹"].toLowerCase().includes(univ)) ||
       (l["Sigla da IES"] && l["Sigla da IES"].toLowerCase().includes(univ))
     ))
     ).slice(0, 30);
@@ -167,6 +177,15 @@
   }
 
   const filtrarComEspera = debounce(filtrar, 1000); // 500ms = meio segundo
+
+  // função para Licenciaturas e Medicina (2025+)
+  function getProficiencia(l) {
+    const raw = l["Percentual de Concluintes Igual ou Acima do Padrão 1 de Proficiência"] ||
+                l["Percentual Concluintes Acima do Padrão"] ||
+                "";
+    const val = raw.toString().trim();
+    return val === "" ? "-" : val;
+  }
 
   // ---- Mostrar resultados ----
   function mostrarResultados(lista, listaIGC) {
@@ -196,6 +215,7 @@
             <th>Cód. MEC</th>
             <th>Nota Enade (Contínuo)</th>
             <th>CPC M/D</th>
+            <th>PDB/PCP</th>
           </tr>
         </thead>
         <tbody>
@@ -219,8 +239,8 @@
     countIGC = 0;
 
     lista.forEach(l => {
-      const nomeIES = l["Nome da IES*"] || l["Nome da IES"] || "";
-      const siglaIES = l["Sigla da IES*"] || l["Sigla da IES"] || "";
+      const nomeIES = l["Nome da IES*"] || l["Nome da IES¹"] || l["Nome da IES"] || "";
+      const siglaIES = l["Sigla da IES*"] || l["Sigla da IES ¹"] || l["Sigla da IES"] || "";
       const uf = l["Sigla da UF**"] || l["Sigla da UF** "] || l["Sigla da UF"] || "";
       const cidade = l["Município do Curso**"] || l["Município do Curso"] || "";
       const codCurso = l["Código do Curso"] || "";
@@ -229,6 +249,7 @@
       const cpcMD = getCPCMD(l["Ano"], codCurso);
       const grauAcademico = l["Grau acadêmico"] || l["Grau Acadêmico"] || "";
       const cursoComGrau = grauAcademico ? `${l["Área de Avaliação"]} (${grauAcademico})` : l["Área de Avaliação"];
+      const pdb = getProficiencia(l);
 
       html += `
         <tr>
@@ -241,6 +262,7 @@
           <td>${codCurso}</td>
           <td>${nota}</td>
           <td>${cpcMD}</td>
+          <td>${pdb}</td>
         </tr>
       `;
       count += 1;
